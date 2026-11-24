@@ -1,0 +1,87 @@
+[
+  {
+    "id": "red-fort-delhi",
+    "name": "Red Fort (Lal Qila)",
+    "type": "place",
+    "parent": "central-delhi",
+    "path": "Red Fort (Lal Qila), Central Delhi, India",
+    "summary": "Historic 17th-century Mughal imperial palace citadel built of red sandstone by Emperor Shah Jahan.",
+    "points": [
+      "Commissioned in 1638 CE by Emperor Shah Jahan; completed 1648 CE",
+      "Mughal dynasty; designated UNESCO World Heritage Site in 2007",
+      "Venue of India's annual Independence Day flag-hoisting address by the Prime Minister"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Red_Fort_(Lal_Qila)",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "qutub-minar",
+    "name": "Qutub Minar & Iron Pillar",
+    "type": "place",
+    "parent": "south-delhi",
+    "path": "Qutub Minar & Iron Pillar, South Delhi, India",
+    "summary": "73-meter soaring minaret of victory and rust-resistant 4th-century Gupta iron pillar.",
+    "points": [
+      "Construction started in 1199 CE by Qutb-ud-din Aibak and completed by Iltutmish; Delhi Sultanate (Mamluk dynasty)",
+      "Inscribed as UNESCO World Heritage Site in 1993",
+      "Houses the 1,600-year-old Gupta Iron Pillar that has never rusted"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Qutub_Minar_&_Iron_Pillar",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "india-gate-delhi",
+    "name": "India Gate",
+    "type": "place",
+    "parent": "new-delhi",
+    "path": "India Gate, New Delhi, India",
+    "summary": "Ceremonial 42-meter triumphal arch war memorial designed by Sir Edwin Lutyens.",
+    "points": [
+      "Foundation laid in 1921, inaugurated in 1931 by Viceroy Lord Irwin",
+      "Designed by Edwin Lutyens; honors 84,000 soldiers who died in World War I",
+      "Features the Amar Jawan Jyoti eternal flame and National War Memorial"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/India_Gate",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "swaminarayan-akshardham-delhi",
+    "name": "Swaminarayan Akshardham",
+    "type": "place",
+    "parent": "central-delhi",
+    "path": "Swaminarayan Akshardham, Central Delhi, India",
+    "summary": "World's largest comprehensive Hindu temple complex, carved entirely from pink sandstone and Carrara marble.",
+    "points": [
+      "Consecrated on 6 November 2005 by Pramukh Swami Maharaj",
+      "BAPS Swaminarayan Sanstha",
+      "Built without structural steel according to ancient Shilpa Shastras featuring 20,000 carved statues"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "lotus-temple-delhi",
+    "name": "Lotus Temple (Bahá'í House of Worship)",
+    "type": "place",
+    "parent": "south-delhi",
+    "path": "Lotus Temple (Bahá'í House of Worship), South Delhi, India",
+    "summary": "Architectural masterpiece shaped like a blossoming 27-petal white marble lotus flower.",
+    "points": [
+      "Completed in 1986, designed by Iranian-Canadian architect Fariborz Sahba",
+      "Bahá'í faith; open to people of all religions and denominations for silent contemplation",
+      "Won numerous international architectural awards for expressionist concrete shell design"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Lotus_Temple_(Bahá'í_House_of_Worship)",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

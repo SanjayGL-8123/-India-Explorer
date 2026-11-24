@@ -1,0 +1,46 @@
+[
+  {
+    "id": "kolkata",
+    "name": "Kolkata",
+    "type": "district",
+    "parent": "west-bengal",
+    "path": "Kolkata, West Bengal, India",
+    "summary": "City of Joy, former British imperial capital, cultural heart of India.",
+    "profile": {
+      "Headquarters": "Kolkata",
+      "Food": "Rosogolla, Shorshe Ilish, Kathi Roll",
+      "Crafts": "Kalighat painting, Terracotta"
+    },
+    "area": "206 km²",
+    "population": "4,496,694 (2011 Census)",
+    "points": [
+      "City of Joy, former British imperial capital, cultural heart of India."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kolkata_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "darjeeling",
+    "name": "Darjeeling",
+    "type": "district",
+    "parent": "west-bengal",
+    "path": "Darjeeling, West Bengal, India",
+    "summary": "Queen of the Hills in the Himalayas, tea gardens and toy train.",
+    "profile": {
+      "Headquarters": "Darjeeling",
+      "Food": "Darjeeling tea, Momos",
+      "Crafts": "GI-tagged Darjeeling Tea, Woollens"
+    },
+    "area": "2,093 km²",
+    "population": "1,846,823 (2011 Census)",
+    "points": [
+      "Queen of the Hills in the Himalayas, tea gardens and toy train."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Darjeeling_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

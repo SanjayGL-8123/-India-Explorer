@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kailasa-temple-ellora",
+    "name": "Kailasa Temple (Cave 16), Ellora",
+    "type": "place",
+    "parent": "chhatrapati-sambhajinagar",
+    "path": "Kailasa Temple, Chhatrapati Sambhajinagar, Maharashtra, India",
+    "summary": "World's largest monolithic rock-cut monument, chiseled vertically top-down from a single basalt cliff face.",
+    "points": [
+      "Commissioned in the 8th century CE (c. 756–773 CE) by Rashtrakuta King Krishna I",
+      "Rashtrakuta dynasty; central highlight of the UNESCO World Heritage Ellora Caves inscribed in 1983",
+      "Dedicated to Lord Shiva as his Himalayan abode Mount Kailash; carved from 200,000 tonnes of solid basalt rock",
+      "Excavated entirely using top-down quarrying technique without scaffolding, featuring intricate multi-story elephant and Ramayana relief friezes"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kailash_Temple,_Ellora",
+    "source": "Archaeological Survey of India, UNESCO, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "trimbakeshwar-shiva-temple",
+    "name": "Trimbakeshwar Shiva Temple, Nashik",
+    "type": "place",
+    "parent": "nashik",
+    "path": "Trimbakeshwar Temple, Nashik, Maharashtra, India",
+    "summary": "Ancient Jyotirlinga sanctuary located at the source of the holy Godavari river at the foot of Brahmagiri mountain.",
+    "points": [
+      "Present monumental black basalt temple constructed by Maratha ruler Peshwa Balaji Baji Rao (Nana Saheb) between 1755 and 1786 CE",
+      "Maratha Peshwa dynasty",
+      "One of the 12 sacred Jyotirlingas; unique for housing a three-faced lingam representing Brahma, Vishnu, and Shiva",
+      "Adorned with a jeweled crown (Trimbakeshwar Crown) studded with diamonds, emeralds, and rubies dating back to the Pandavas"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Trimbakeshwar_Shiva_Temple",
+    "source": "Trimbakeshwar Devasthan, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "siddhivinayak-temple-mumbai",
+    "name": "Shree Siddhivinayak Temple, Prabhadevi",
+    "type": "place",
+    "parent": "mumbai-city",
+    "path": "Siddhivinayak Temple, Mumbai City, Maharashtra, India",
+    "summary": "Two-century-old premier Ganesha sanctuary in central Mumbai, renowned for gold-plated inner sanctum.",
+    "points": [
+      "Originally constructed on 19 November 1801 by contractor Laxman Vithu and funded by rich agri woman Deubai Patil",
+      "Patronized by Maratha and Peshwa nobility; modern multi-tier gold-domed structure consecrated in 1993",
+      "Dedicated to Lord Ganesha (Siddhivinayak - 'granter of wishes'); carved from a single 2.5-foot black stone with right-turned trunk (Navasacha Ganapati)",
+      "Visited by over 200,000 devotees every Tuesday including leaders of business, politics, and the film industry"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Siddhivinayak_Temple,_Mumbai",
+    "source": "Shree Siddhivinayak Ganapati Temple Trust, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "shirdi-sai-baba-temple",
+    "name": "Sai Baba Temple, Shirdi",
+    "type": "place",
+    "parent": "ahmednagar",
+    "path": "Sai Baba Temple, Ahilyanagar, Maharashtra, India",
+    "summary": "Global pilgrimage shrine honoring 19th-century saint Sai Baba, preaching universal harmony and devotion.",
+    "points": [
+      "Samadhi Mandir construction began in 1915 CE by wealthy disciple Gopalrao Booty; saint's mortal remains consecrated in October 1918",
+      "Dedicated to the venerated ascetic Sadguru Sai Baba of Shirdi, who taught 'Sabka Malik Ek' (One God Governs All)",
+      "Features a life-size pure Italian white marble statue of Sai Baba seated on an Italian marble throne sculpted by Balaji Vasant Talim in 1954",
+      "Attracts upwards of 25,000 to 100,000 devotees every day from all religious backgrounds worldwide"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Shirdi",
+    "source": "Shri Saibaba Sansthan Trust, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "mahalakshmi-temple-kolhapur",
+    "name": "Shri Ambabai (Mahalakshmi) Temple, Kolhapur",
+    "type": "place",
+    "parent": "kolhapur",
+    "path": "Mahalakshmi Temple, Kolhapur, Maharashtra, India",
+    "summary": "7th-century Chalukyan architectural marvel and major Shakti Peetha where solar rays illuminate the deity twice yearly.",
+    "points": [
+      "Constructed in the 7th century CE by King Karandev of the Chalukya dynasty; further embellished by Shilahara and Yadava kings in 11th century",
+      "Chalukya, Shilahara, and Maratha dynasties",
+      "Dedicated to Goddess Mahalakshmi (locally called Ambabai), the supreme Shakti granting both spiritual liberation and worldly prosperity",
+      "Acclaimed for the architectural marvel of Kiranotsav (Festival of Sun Rays), where natural setting sunbeams fall directly on the deity's feet and face in January and November"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Mahalakshmi_Temple,_Kolhapur",
+    "source": "Paschim Maharashtra Devasthan Samiti, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "gaya",
+    "name": "Gaya",
+    "type": "district",
+    "parent": "bihar",
+    "path": "Gaya, Bihar, India",
+    "summary": "Sacred city of Bodh Gaya where Gautama Buddha attained Enlightenment.",
+    "profile": {
+      "Headquarters": "Gaya",
+      "Food": "Tilkut, Anarsa",
+      "Crafts": "Stone carving"
+    },
+    "area": "4,976 km²",
+    "population": "4,391,418 (2011 Census)",
+    "points": [
+      "Sacred city of Bodh Gaya where Gautama Buddha attained Enlightenment."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Gaya_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "nalanda",
+    "name": "Nalanda",
+    "type": "district",
+    "parent": "bihar",
+    "path": "Nalanda, Bihar, India",
+    "summary": "Ruins of ancient 5th-century Nalanda University, global seat of Buddhist learning.",
+    "profile": {
+      "Headquarters": "Nalanda",
+      "Food": "Silao Khaja",
+      "Crafts": "Handloom weaving"
+    },
+    "area": "2,355 km²",
+    "population": "2,877,653 (2011 Census)",
+    "points": [
+      "Ruins of ancient 5th-century Nalanda University, global seat of Buddhist learning."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nalanda_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

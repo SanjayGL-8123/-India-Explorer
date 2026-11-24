@@ -1,0 +1,25 @@
+[
+  {
+    "id": "gangtok-district",
+    "name": "Gangtok",
+    "type": "district",
+    "parent": "sikkim",
+    "path": "Gangtok, Sikkim, India",
+    "summary": "Administrative capital district of Sikkim.",
+    "profile": {
+      "Headquarters": "Gangtok",
+      "Language": "Nepali, Sikkimese (Bhutia), Lepcha, English",
+      "Food": "Momos, Thukpa, Gundruk fermented soup, Phagshapa pork curry, Sel Roti",
+      "Crafts": "Thangka religious scroll paintings, Choktse foldable wooden tables, Lepcha handloom weaves, Woollen carpets"
+    },
+    "area": "7,096 km²",
+    "population": "610,577 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Sikkim"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Sikkim",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

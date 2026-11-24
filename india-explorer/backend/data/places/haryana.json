@@ -1,0 +1,18 @@
+[
+  {
+    "id": "haryana-heritage-monument",
+    "name": "Haryana Heritage Monument",
+    "type": "place",
+    "parent": "haryana-chandigarh-district",
+    "path": "Haryana Heritage Monument, Chandigarh, Haryana, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Haryana.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Haryana",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Haryana",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "raipur-district",
+    "name": "Raipur",
+    "type": "district",
+    "parent": "chhattisgarh",
+    "path": "Raipur, Chhattisgarh, India",
+    "summary": "Administrative capital district of Chhattisgarh.",
+    "profile": {
+      "Headquarters": "Raipur",
+      "Language": "Chhattisgarhi, Hindi",
+      "Food": "Chila, Fara, Muthia, Bafauri, Dubki Kadi",
+      "Crafts": "Bastar Dhokra bell metal casting, Wrought iron craft, Kosa silk sarees, Terracotta pottery"
+    },
+    "area": "135,192 km²",
+    "population": "25,545,198 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Chhattisgarh"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Chhattisgarh",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

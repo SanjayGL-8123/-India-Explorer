@@ -1,0 +1,25 @@
+[
+  {
+    "id": "agartala-district",
+    "name": "Agartala",
+    "type": "district",
+    "parent": "tripura",
+    "path": "Agartala, Tripura, India",
+    "summary": "Administrative capital district of Tripura.",
+    "profile": {
+      "Headquarters": "Agartala",
+      "Language": "Bengali, Kokborok, English",
+      "Food": "Mui Borok (fermented fish Berma dishes), Kosoi Bwtwi, Mosdeng Serma, Wahan Mosdeng",
+      "Crafts": "Tripura bamboo and cane table mats, Hand-woven Risa and Rikutu ethnic textiles, Wood carvings"
+    },
+    "area": "10,491 km²",
+    "population": "3,673,917 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Tripura"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Tripura",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "puducherry-heritage-monument",
+    "name": "Puducherry Heritage Monument",
+    "type": "place",
+    "parent": "puducherry-district",
+    "path": "Puducherry Heritage Monument, Puducherry, Puducherry, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Puducherry.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Puducherry",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Puducherry",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

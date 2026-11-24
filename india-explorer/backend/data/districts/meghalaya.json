@@ -1,0 +1,25 @@
+[
+  {
+    "id": "shillong-district",
+    "name": "Shillong",
+    "type": "district",
+    "parent": "meghalaya",
+    "path": "Shillong, Meghalaya, India",
+    "summary": "Administrative capital district of Meghalaya.",
+    "profile": {
+      "Headquarters": "Shillong",
+      "Language": "English, Khasi, Garo",
+      "Food": "Jadoh (rice cooked with meat), Doh-neiiong (pork with black sesame), Tungrymbai, Pumaloi",
+      "Crafts": "Cane and bamboo stools, Ryndia Eri silk handloom shawls, Wood carving of Garo hills"
+    },
+    "area": "22,429 km²",
+    "population": "2,966,889 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Meghalaya"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Meghalaya",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

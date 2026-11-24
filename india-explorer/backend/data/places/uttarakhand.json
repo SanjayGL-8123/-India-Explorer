@@ -1,0 +1,18 @@
+[
+  {
+    "id": "uttarakhand-heritage-monument",
+    "name": "Uttarakhand Heritage Monument",
+    "type": "place",
+    "parent": "dehradun-district",
+    "path": "Uttarakhand Heritage Monument, Dehradun, Uttarakhand, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Uttarakhand.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Uttarakhand",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Uttarakhand",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

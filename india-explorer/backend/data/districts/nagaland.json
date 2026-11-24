@@ -1,0 +1,25 @@
+[
+  {
+    "id": "kohima-district",
+    "name": "Kohima",
+    "type": "district",
+    "parent": "nagaland",
+    "path": "Kohima, Nagaland, India",
+    "summary": "Administrative capital district of Nagaland.",
+    "profile": {
+      "Headquarters": "Kohima",
+      "Language": "English, Nagamese",
+      "Food": "Smoked Pork with Axone (fermented soya), Bamboo Steamed Fish, Raja Mircha (Bhut Jolokia) chutney",
+      "Crafts": "Naga warrior shawls (Tsungkotepsu), Wood carved ceremonial drinking cups, Bead jewelry, Cane baskets"
+    },
+    "area": "16,579 km²",
+    "population": "1,978,502 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Nagaland"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nagaland",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

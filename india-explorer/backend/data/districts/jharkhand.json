@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ranchi-district",
+    "name": "Ranchi",
+    "type": "district",
+    "parent": "jharkhand",
+    "path": "Ranchi, Jharkhand, India",
+    "summary": "Administrative capital district of Jharkhand.",
+    "profile": {
+      "Headquarters": "Ranchi",
+      "Language": "Hindi, Santhali, Mundari, Ho, Kurukh",
+      "Food": "Dhuska, Rugra mushroom curry, Pittha, Chilka Roti, Bamboo Shoot curry",
+      "Crafts": "Sohrai and Khovar wall mural art, Dhokra brass figurines, Terracotta tiles, Bamboo baskets"
+    },
+    "area": "79,714 km²",
+    "population": "32,988,134 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Jharkhand"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Jharkhand",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

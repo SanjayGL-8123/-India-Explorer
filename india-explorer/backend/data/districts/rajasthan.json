@@ -1,0 +1,68 @@
+[
+  {
+    "id": "jaipur",
+    "name": "Jaipur",
+    "type": "district",
+    "parent": "rajasthan",
+    "path": "Jaipur, Rajasthan, India",
+    "summary": "The Pink City, capital of Rajasthan, Amer Fort and Hawa Mahal.",
+    "profile": {
+      "Headquarters": "Jaipur",
+      "Food": "Pyaaz Kachori, Ghevar",
+      "Crafts": "Blue Pottery, Gemstones"
+    },
+    "area": "11,143 km²",
+    "population": "6,626,178 (2011 Census)",
+    "points": [
+      "The Pink City, capital of Rajasthan, Amer Fort and Hawa Mahal."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Jaipur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "udaipur",
+    "name": "Udaipur",
+    "type": "district",
+    "parent": "rajasthan",
+    "path": "Udaipur, Rajasthan, India",
+    "summary": "City of Lakes, royal palaces, Lake Pichola and Jagdish Temple.",
+    "profile": {
+      "Headquarters": "Udaipur",
+      "Food": "Dal Baati Churma, Gatte",
+      "Crafts": "Miniature painting, Marble"
+    },
+    "area": "11,724 km²",
+    "population": "3,068,420 (2011 Census)",
+    "points": [
+      "City of Lakes, royal palaces, Lake Pichola and Jagdish Temple."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Udaipur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "jodhpur",
+    "name": "Jodhpur",
+    "type": "district",
+    "parent": "rajasthan",
+    "path": "Jodhpur, Rajasthan, India",
+    "summary": "The Blue City, colossal Mehrangarh Fort on sandstone cliff.",
+    "profile": {
+      "Headquarters": "Jodhpur",
+      "Food": "Mawa Kachori, Mirchi Vada",
+      "Crafts": "Banjara textiles, Woodcraft"
+    },
+    "area": "22,850 km²",
+    "population": "3,687,002 (2011 Census)",
+    "points": [
+      "The Blue City, colossal Mehrangarh Fort on sandstone cliff."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Jodhpur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

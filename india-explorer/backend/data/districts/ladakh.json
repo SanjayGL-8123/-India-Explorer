@@ -1,0 +1,25 @@
+[
+  {
+    "id": "leh-district",
+    "name": "Leh",
+    "type": "district",
+    "parent": "ladakh",
+    "path": "Leh, Ladakh, India",
+    "summary": "Administrative capital district of Ladakh.",
+    "profile": {
+      "Headquarters": "Leh",
+      "Language": "Ladakhi (Bhoti), Purgi, Balti, Tibetan, Hindi, English",
+      "Food": "Thukpa noodle broth, Skyu vegetable stew, Tingmo steamed buns, Chhurpi soup, Butter Tea (Gur Gur Cha)",
+      "Crafts": "Pashmina wool spinning, Thangka painting, Wood-carved low prayer tables (Choktse), Metal brass bells and statues"
+    },
+    "area": "59,146 km²",
+    "population": "274,289 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Ladakh"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ladakh",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

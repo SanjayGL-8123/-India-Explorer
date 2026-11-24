@@ -1,0 +1,25 @@
+[
+  {
+    "id": "chandigarh-district",
+    "name": "Chandigarh",
+    "type": "district",
+    "parent": "chandigarh",
+    "path": "Chandigarh, Chandigarh, India",
+    "summary": "Administrative capital district of Chandigarh.",
+    "profile": {
+      "Headquarters": "Chandigarh",
+      "Language": "Hindi, Punjabi, English",
+      "Food": "Chole Kulche, Butter Chicken, Paneer Tikka, Tandoori Fish, Dal Makhani",
+      "Crafts": "Nek Chand Rock Garden stone and porcelain sculptures, Terracotta garden pots, Phulkari shawls"
+    },
+    "area": "114 km²",
+    "population": "1,055,450 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Chandigarh"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Chandigarh",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

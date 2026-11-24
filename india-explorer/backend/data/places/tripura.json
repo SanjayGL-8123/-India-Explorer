@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tripura-heritage-monument",
+    "name": "Tripura Heritage Monument",
+    "type": "place",
+    "parent": "agartala-district",
+    "path": "Tripura Heritage Monument, Agartala, Tripura, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Tripura.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Tripura",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Tripura",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

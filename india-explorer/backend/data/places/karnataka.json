@@ -1,0 +1,146 @@
+[
+  {
+    "id": "virupaksha-temple-hampi",
+    "name": "Virupaksha Temple, Hampi",
+    "type": "place",
+    "parent": "vijayanagara",
+    "path": "Virupaksha Temple, Vijayanagara, Karnataka, India",
+    "summary": "Ancient living Shiva temple on the banks of Tungabhadra River, heart of the UNESCO World Heritage Hampi ruins.",
+    "points": [
+      "Originally constructed in the 7th century CE as a modest shrine; major expansion commissioned by King Krishnadevaraya in 1510 CE to commemorate his accession",
+      "Vijayanagara dynasty (with earlier Chalukya and Hoysala layers)",
+      "Dedicated to Lord Virupaksha, a manifestation of Lord Shiva, and his consort Pampa Devi",
+      "Renowned for its 50-meter-high eastern Rajagopura and inverted pinhole shadow effect projected onto temple walls"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Virupaksha_Temple,_Hampi",
+    "source": "Archaeological Survey of India, UNESCO, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "chennakeshava-temple-belur",
+    "name": "Chennakeshava Temple, Belur",
+    "type": "place",
+    "parent": "hassan",
+    "path": "Chennakeshava Temple, Hassan, Karnataka, India",
+    "summary": "Masterpiece of Hoysala stone sculpture, inscribed as a UNESCO World Heritage Site in 2023.",
+    "points": [
+      "Commissioned in 1117 CE by Hoysala King Vishnuvardhana to commemorate victory over the Cholas at Talakad",
+      "Hoysala dynasty; took 103 years and three generations of master sculptors like Dasoja to complete",
+      "Dedicated to Chennakeshava (Handsome Vishnu); built entirely from soft green chloritic schist (soapstone)",
+      "Celebrated for 42 Madanika (bracket dancers) figurines displaying exquisite hairstyles, instruments, and micro-filigree detailing"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Belur",
+    "source": "Archaeological Survey of India, UNESCO, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "hoysaleswara-temple-halebidu",
+    "name": "Hoysaleswara Temple, Halebidu",
+    "type": "place",
+    "parent": "hassan",
+    "path": "Hoysaleswara Temple, Hassan, Karnataka, India",
+    "summary": "Twin-shrine jewel of Hoysala architecture on a star-shaped plinth, dedicated to Hoysaleswara and Shantaleswara.",
+    "points": [
+      "Built in 1121 CE by Ketamalla, an officer under King Vishnuvardhana of the Hoysala dynasty",
+      "Hoysala dynasty; inscribed as part of Sacred Ensembles of the Hoysalas on UNESCO World Heritage list in 2023",
+      "Twin Shiva temple standing on a stellate (star-shaped) platform with two large Nandi mantapas carved from monolithic stone",
+      "Outer walls feature continuous horizontal friezes depicting 1,248 elephants, lions, floral scrolls, and epic Mahabharata narratives"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Hoysaleswara_Temple",
+    "source": "Archaeological Survey of India, UNESCO, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "sri-krishna-mutt-udupi",
+    "name": "Sri Krishna Matha, Udupi",
+    "type": "place",
+    "parent": "udupi",
+    "path": "Sri Krishna Matha, Udupi, Karnataka, India",
+    "summary": "World-famous spiritual center of Dvaita Vedanta where Lord Krishna is worshipped exclusively through a nine-hole silver window.",
+    "points": [
+      "Founded in the 13th century CE by Jagadguru Madhvacharya, the proponent of Tattvavada (Dvaita philosophy)",
+      "Ashta Mathas (eight monastic lineages) established by Madhvacharya govern temple rituals through biennial Paryaya succession",
+      "Celebrated for Kanakana Kindi (window through which devotee Kanakadasa had darshan when the idol miraculously turned to face west)",
+      "Renowned for uninterrupted Annadanam (serving free wholesome meals to thousands of pilgrims daily)"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+    "source": "Udupi Temple Administration, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "chamundeshwari-temple-mysuru",
+    "name": "Chamundeshwari Temple, Mysuru",
+    "type": "place",
+    "parent": "mysuru",
+    "path": "Chamundeshwari Temple, Mysuru, Karnataka, India",
+    "summary": "Historic hilltop temple of the patron goddess of the Kingdom of Mysore atop Chamundi Hills.",
+    "points": [
+      "Originally constructed in the 12th century CE by Hoysala rulers; seven-tier gopuram added by Vijayanagara rulers in 17th century and extensively renovated by Maharaja Krishnaraja Wadiyar III in 1827",
+      "Hoysala, Vijayanagara, and Wadiyar dynasties",
+      "Dedicated to Chamundeshwari (Durga), who slew the demon Mahishasura on this hill",
+      "Connected by 1,008 stone steps featuring a colossal 16-foot monolithic Nandi bull carved in 1659 CE"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Chamundeshwari_Temple",
+    "source": "Mysore District Heritage, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "murudeshwar-temple",
+    "name": "Murudeshwar Temple & Raja Gopura",
+    "type": "place",
+    "parent": "uttara-kannada",
+    "path": "Murudeshwar Temple, Uttara Kannada, Karnataka, India",
+    "summary": "Coastal pilgrimage complex on the Arabian Sea headland boasting the world's second-tallest Lord Shiva statue.",
+    "points": [
+      "Ancient shrine of Atma Linga piece; modern 123-foot colossal Shiva statue and 20-story Rajagopura completed in 2008 by philanthropist R. N. Shetty",
+      "Kadamba and Vijayanagara historical legacy with modern coastal architectural engineering",
+      "Surrounded on three sides by the waters of the Arabian Sea atop Kanduka Giri hill",
+      "Features a 249-foot Rajagopura equipped with a high-speed elevator taking visitors to viewing galleries on the 18th floor"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Murudeshwara",
+    "source": "Karnataka Tourism, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "mysore-palace",
+    "name": "Mysore Palace (Amba Vilas)",
+    "type": "place",
+    "parent": "mysuru",
+    "path": "Mysore Palace, Mysuru, Karnataka, India",
+    "summary": "Spectacular royal residence of the Wadiyar dynasty, illuminating the city with nearly 100,000 bulbs.",
+    "points": [
+      "Commissioned after fire destroyed old wooden palace in 1897; designed by British architect Henry Irwin and completed in 1912 CE",
+      "Wadiyar dynasty of the Kingdom of Mysore",
+      "Indo-Saracenic masterpiece blending Hindu, Mughal, Rajput, and Gothic architectural styles",
+      "Houses the ornate Golden Throne (Chinnada Simhasana) and Durbar Hall with stained glass peacock ceiling"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Mysore_Palace",
+    "source": "Mysore Palace Board, Government of Karnataka, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "jog-falls",
+    "name": "Jog Falls",
+    "type": "place",
+    "parent": "shivamogga",
+    "path": "Jog Falls, Shivamogga, Karnataka, India",
+    "summary": "India's second-highest untiered plunge waterfall on the Sharavathi River dropping 253 meters in roaring cascades.",
+    "points": [
+      "Natural plunge waterfall fed by the Sharavathi River in the Western Ghats; first surveyed by British officers in 1840",
+      "Power harnessed by the Mahatma Gandhi Hydroelectric Project commissioned in 1948",
+      "Divided into four distinct cascades: Raja (unbroken drop), Roarer, Rocket (jetting stream), and Rani (graceful spray)",
+      "Best witnessed during the peak monsoon season between July and October when water discharge exceeds 3,000 cubic meters per second"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Jog_Falls",
+    "source": "Karnataka Tourism, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "manipur-heritage-monument",
+    "name": "Manipur Heritage Monument",
+    "type": "place",
+    "parent": "imphal-district",
+    "path": "Manipur Heritage Monument, Imphal, Manipur, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Manipur.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Manipur",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Manipur",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

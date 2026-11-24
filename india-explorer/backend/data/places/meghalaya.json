@@ -1,0 +1,18 @@
+[
+  {
+    "id": "meghalaya-heritage-monument",
+    "name": "Meghalaya Heritage Monument",
+    "type": "place",
+    "parent": "shillong-district",
+    "path": "Meghalaya Heritage Monument, Shillong, Meghalaya, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Meghalaya.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Meghalaya",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Meghalaya",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

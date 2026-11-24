@@ -1,0 +1,122 @@
+[
+  {
+    "id": "agra",
+    "name": "Agra",
+    "type": "district",
+    "parent": "uttar-pradesh",
+    "path": "Agra, Uttar Pradesh, India",
+    "summary": "Imperial Mughal capital on the Yamuna river, internationally famous for the Taj Mahal, Agra Fort, and marble inlay.",
+    "profile": {
+      "Headquarters": "Agra",
+      "Language": "Hindi, Urdu, Braj Bhasha",
+      "Food": "Agra Petha, Bedai Aloo, Mughlai curries",
+      "Crafts": "Pietra dura marble inlay, Leather footwear"
+    },
+    "area": "4,027 km²",
+    "population": "4,418,797 (2011 Census)",
+    "points": [
+      "Home to three UNESCO World Heritage Sites: Taj Mahal, Agra Fort, and Fatehpur Sikri",
+      "Capital of the Mughal Empire under emperors Akbar, Jahangir, and Shah Jahan"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Agra_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "ayodhya",
+    "name": "Ayodhya",
+    "type": "district",
+    "parent": "uttar-pradesh",
+    "path": "Ayodhya, Uttar Pradesh, India",
+    "summary": "Ancient sacred city on the holy Saryu river, legendary capital of the Ikshvaku dynasty and birthplace of Lord Rama.",
+    "profile": {
+      "Headquarters": "Ayodhya",
+      "Language": "Hindi, Awadhi",
+      "Food": "Laddus, Ramdana laddoos",
+      "Crafts": "Wood carving, Religious souvenirs"
+    },
+    "area": "2,522 km²",
+    "population": "2,470,996 (2011 Census)",
+    "points": [
+      "Birthplace of Lord Rama described in the epic Ramayana; capital of ancient Kosala Kingdom",
+      "Home to the newly consecrated grand Ram Mandir and historic Hanuman Garhi temple"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ayodhya_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "lucknow",
+    "name": "Lucknow",
+    "type": "district",
+    "parent": "uttar-pradesh",
+    "path": "Lucknow, Uttar Pradesh, India",
+    "summary": "The City of Nawabs and capital of Uttar Pradesh, famed for refined Tehzeeb manners, Awadhi cuisine, and Chikankari embroidery.",
+    "profile": {
+      "Headquarters": "Lucknow",
+      "Language": "Hindi, Urdu, Awadhi",
+      "Food": "Awadhi Dum Biryani, Galouti Kebab, Sheermal",
+      "Crafts": "GI-tagged Chikankari white embroidery, Zardozi gold embroidery"
+    },
+    "area": "2,528 km²",
+    "population": "4,589,838 (2011 Census)",
+    "points": [
+      "Capital of the Nawabs of Awadh who built the Bara Imambara and Rumi Darwaza in the 18th century",
+      "Bara Imambara features the world's largest unsupported vaulted hall (Bhulbhulaiya maze)"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Lucknow_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "mathura",
+    "name": "Mathura",
+    "type": "district",
+    "parent": "uttar-pradesh",
+    "path": "Mathura, Uttar Pradesh, India",
+    "summary": "Sacred Braj Bhumi on the Yamuna river, revered birthplace of Lord Krishna, and ancient seat of Mathura Kushan art.",
+    "profile": {
+      "Headquarters": "Mathura",
+      "Language": "Hindi, Braj Bhasha",
+      "Food": "Mathura Peda, Makhan Mishri, Kachori",
+      "Crafts": "Sanjhi paper stenciling art, Deity dresses"
+    },
+    "area": "3,340 km²",
+    "population": "2,547,184 (2011 Census)",
+    "points": [
+      "Birthplace of Lord Krishna at Shri Krishna Janmabhoomi complex",
+      "Major cultural capital of Kushan Empire (1st–3rd century CE) where early red sandstone Buddha and Hindu sculptures evolved"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Mathura_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "varanasi",
+    "name": "Varanasi (Kashi)",
+    "type": "district",
+    "parent": "uttar-pradesh",
+    "path": "Varanasi, Uttar Pradesh, India",
+    "summary": "Spiritual Capital of India, sacred holy city on the Ganges with 84 bathing ghats and Kashi Vishwanath Jyotirlinga.",
+    "profile": {
+      "Headquarters": "Varanasi",
+      "Language": "Hindi, Bhojpuri",
+      "Food": "Banarasi Paan, Malaiyo, Tamatar Chaat, Kachori Jalebi",
+      "Crafts": "GI-tagged Banarasi silk brocade sarees, Pink Meenakari enamel, Wooden toys"
+    },
+    "area": "1,535 km²",
+    "population": "3,676,841 (2011 Census)",
+    "points": [
+      "One of the world's oldest continuously inhabited sacred cities, dating back to 2nd millennium BCE",
+      "Includes Sarnath, where Gautama Buddha delivered his first sermon (Dharmachakra Pravartana) in 528 BCE"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Varanasi_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

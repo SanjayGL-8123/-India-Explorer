@@ -1,0 +1,25 @@
+[
+  {
+    "id": "hyderabad-district",
+    "name": "Hyderabad",
+    "type": "district",
+    "parent": "telangana",
+    "path": "Hyderabad, Telangana, India",
+    "summary": "Administrative capital district of Telangana.",
+    "profile": {
+      "Headquarters": "Hyderabad",
+      "Language": "Telugu, Urdu",
+      "Food": "Hyderabadi Dum Biryani, Haleem, Mirchi ka Salan, Sakinalu, Sarva Pindi",
+      "Crafts": "Pochampally Ikat silk, Gadwal sarees, Bidriware silver inlay, Cheriyal scroll paintings, Pembarthi metal crafts"
+    },
+    "area": "112,077 km²",
+    "population": "35,193,978 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Telangana"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Telangana",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

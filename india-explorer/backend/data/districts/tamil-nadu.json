@@ -1,0 +1,554 @@
+[
+  {
+    "id": "ariyalur",
+    "name": "Ariyalur",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Ariyalur, Tamil Nadu, India",
+    "summary": "Limestone and fossil rich region, home to Rajendra Chola's imperial capital Gangaikonda Cholapuram.",
+    "profile": {
+      "Headquarters": "Ariyalur",
+      "Language": "Tamil",
+      "Food": "Varagu rice delicacies",
+      "Crafts": "Limestone cement, Cashew processing"
+    },
+    "area": "1,949 km²",
+    "population": "754,894 (2011 Census)",
+    "points": [
+      "Houses Gangaikonda Cholapuram UNESCO World Heritage Chola temple built in 1035 CE",
+      "Famous for Mesozoic marine fossil beds"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ariyalur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "chengalpattu",
+    "name": "Chengalpattu",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Chengalpattu, Tamil Nadu, India",
+    "summary": "Coastal historic district boasting Mamallapuram UNESCO rock monuments and tech SEZs.",
+    "profile": {
+      "Headquarters": "Chengalpattu",
+      "Language": "Tamil",
+      "Food": "Chettinad snacks, Seafood",
+      "Crafts": "Granite stone sculptures of Mamallapuram"
+    },
+    "area": "2,945 km²",
+    "population": "2,556,244 (2011 Census)",
+    "points": [
+      "7th-century Pallava dynasty shore temples and rock-cut rathas at Mahabalipuram",
+      "Automotive manufacturing corridor of Chennai"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Chengalpattu_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "chennai",
+    "name": "Chennai",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Chennai, Tamil Nadu, India",
+    "summary": "Gateway to South India, historic capital featuring Fort St. George, Marina Beach, and Carnatic music.",
+    "profile": {
+      "Headquarters": "Chennai",
+      "Language": "Tamil, English",
+      "Food": "Idli Sambhar, Filter Coffee, Murukku Sandwich",
+      "Crafts": "Bronze idols, Leather goods"
+    },
+    "area": "426 km²",
+    "population": "7,088,403 (2011 Census)",
+    "points": [
+      "Marina Beach is the second-longest urban natural beach in the world (13 km)",
+      "Kapaleeshwarar Temple in Mylapore represents classical 7th-century Dravidian Shaivism"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Chennai_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "coimbatore",
+    "name": "Coimbatore",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Coimbatore, Tamil Nadu, India",
+    "summary": "The Manchester of South India, engineering capital on the Noyyal river renowned for textiles and pumps.",
+    "profile": {
+      "Headquarters": "Coimbatore",
+      "Language": "Tamil",
+      "Food": "Kovai Biryani, Pallipalayam chicken, Annapoorna Sambar",
+      "Crafts": "Wet grinders, Cotton yarn, Precision engineering"
+    },
+    "area": "4,723 km²",
+    "population": "3,458,045 (2011 Census)",
+    "points": [
+      "Major manufacturing center producing 50% of India's water pumps and motors",
+      "Home to Marudhamalai Murugan temple and Adiyogi Shiva bust"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Coimbatore_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "cuddalore",
+    "name": "Cuddalore",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Cuddalore, Tamil Nadu, India",
+    "summary": "Coastal maritime district famed for Silver Beach, Chidambaram Nataraja Temple, and Neyveli lignite.",
+    "profile": {
+      "Headquarters": "Cuddalore",
+      "Language": "Tamil",
+      "Food": "Seafood curries, Cashew halwa",
+      "Crafts": "Cashew nut processing, Ceramic pottery of Panruti"
+    },
+    "area": "3,703 km²",
+    "population": "2,605,914 (2011 Census)",
+    "points": [
+      "Nataraja Temple at Chidambaram is the center of the cosmos in Hindu cosmic dance philosophy",
+      "Neyveli Lignite Corporation operates major open-cast mines and thermal plants"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Cuddalore_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "dharmapuri",
+    "name": "Dharmapuri",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Dharmapuri, Tamil Nadu, India",
+    "summary": "Agricultural territory along the Kaveri river celebrated for Hogenakkal Falls and mango orchards.",
+    "profile": {
+      "Headquarters": "Dharmapuri",
+      "Language": "Tamil",
+      "Food": "Ragi kali, Mango dishes",
+      "Crafts": "Sericulture, Bamboo basketry"
+    },
+    "area": "4,498 km²",
+    "population": "1,506,843 (2011 Census)",
+    "points": [
+      "Hogenakkal Falls known as the 'Niagara of India' features carbonatite rocks",
+      "One of the leading mango and sericulture producers in Tamil Nadu"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Dharmapuri_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "dindigul",
+    "name": "Dindigul",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Dindigul, Tamil Nadu, India",
+    "summary": "Fortress city celebrated for GI-tagged handcrafted brass locks, Dindigul Thalappakatti biryani, and Kodaikanal.",
+    "profile": {
+      "Headquarters": "Dindigul",
+      "Language": "Tamil",
+      "Food": "Dindigul Seeraga Samba Biryani",
+      "Crafts": "GI-tagged Dindigul handmade iron/brass locks"
+    },
+    "area": "6,267 km²",
+    "population": "2,159,775 (2011 Census)",
+    "points": [
+      "Dindigul Rock Fort constructed in the 17th century by Nayakas of Madurai",
+      "Includes hill station Kodaikanal ('Princess of Hill Stations') in Palani Hills"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Dindigul_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "erode",
+    "name": "Erode",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Erode, Tamil Nadu, India",
+    "summary": "The Turmeric City (Manjal Maanagaram), premier textile market and Bhavanisagar dam region on the Bhavani River.",
+    "profile": {
+      "Headquarters": "Erode",
+      "Language": "Tamil",
+      "Food": "Kongu Nadu mutton chukka, Ragi kali",
+      "Crafts": "GI-tagged Erode Turmeric, Bhavani Jamakkalam carpets"
+    },
+    "area": "5,722 km²",
+    "population": "2,251,744 (2011 Census)",
+    "points": [
+      "Major turmeric trading terminal in India with GI certification for Erode turmeric",
+      "Birthplace of rationalist social reformer Periyar E. V. Ramasamy and mathematician Ramanujan"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Erode_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kanchipuram",
+    "name": "Kanchipuram",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Kanchipuram, Tamil Nadu, India",
+    "summary": "The City of Thousand Temples and Silk, ancient capital of the Pallava dynasty and center of Vedantic philosophy.",
+    "profile": {
+      "Headquarters": "Kanchipuram",
+      "Language": "Tamil",
+      "Food": "Kanchipuram Idli (spiced steamed in Mandharai leaf)",
+      "Crafts": "GI-tagged Kanchipuram pure mulberry silk sarees with heavy zari"
+    },
+    "area": "1,704 km²",
+    "population": "1,166,401 (2011 Census)",
+    "points": [
+      "Capital of the Pallava Empire from 4th to 9th century CE",
+      "Home to Kailasanathar Temple, Ekambareswarar Temple, and Varadharaja Perumal Temple"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kanchipuram_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kanyakumari",
+    "name": "Kanyakumari",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Kanyakumari, Tamil Nadu, India",
+    "summary": "Southernmost tip of the Indian mainland (Cape Comorin), confluence of Arabian Sea, Indian Ocean, and Bay of Bengal.",
+    "profile": {
+      "Headquarters": "Nagercoil",
+      "Language": "Tamil, Malayalam",
+      "Food": "Nanjil Nadu fish curry, Pazham pori, Ulundhu kali",
+      "Crafts": "Sea shell crafts, Banana fibre weaving"
+    },
+    "area": "1,672 km²",
+    "population": "1,870,374 (2011 Census)",
+    "points": [
+      "Features Vivekananda Rock Memorial and 133-foot stone statue of Tamil poet-philosopher Thiruvalluvar",
+      "Unique geographical site where one can witness both sunrise and sunset over the ocean"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kanyakumari_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "karur",
+    "name": "Karur",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Karur, Tamil Nadu, India",
+    "summary": "Textile export hub on the Amaravathi and Kaveri rivers, ancient Chera inland capital vanji.",
+    "profile": {
+      "Headquarters": "Karur",
+      "Language": "Tamil",
+      "Food": "Karur biryani, Kaveri fish curry",
+      "Crafts": "Home textiles (bed linen, towels, table mats)"
+    },
+    "area": "2,896 km²",
+    "population": "1,064,493 (2011 Census)",
+    "points": [
+      "Major global export cluster for home textiles to USA and Europe",
+      "Pasupatheeswarar Temple showcases early Chola stone architecture"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Karur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "krishnagiri",
+    "name": "Krishnagiri",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Krishnagiri, Tamil Nadu, India",
+    "summary": "Mango capital and electronic hardware manufacturing hub bordering Karnataka, featuring historic Krishnagiri Fort.",
+    "profile": {
+      "Headquarters": "Krishnagiri",
+      "Language": "Tamil, Telugu, Kannada",
+      "Food": "Mango pulp, Ragi kali",
+      "Crafts": "Mango processing, Granite monuments"
+    },
+    "area": "5,143 km²",
+    "population": "1,879,809 (2011 Census)",
+    "points": [
+      "Produces over 300,000 tonnes of mangoes annually, exporting mango pulp worldwide",
+      "Hosur industrial estate hosts major electric vehicle and auto manufacturers"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Krishnagiri_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "madurai",
+    "name": "Madurai",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Madurai, Tamil Nadu, India",
+    "summary": "The Athens of the East and Temple City on the Vaigai river, celebrated for Meenakshi Sundareswarar Temple.",
+    "profile": {
+      "Headquarters": "Madurai",
+      "Language": "Tamil",
+      "Food": "Jigarthanda, Kari Dosa, Madurai Idli, Bun Parotta",
+      "Crafts": "Madurai Sungudi sarees, Jasmine (Malli) flower cultivation"
+    },
+    "area": "3,741 km²",
+    "population": "3,038,252 (2011 Census)",
+    "points": [
+      "Ancient capital of the Pandya dynasty and site of all three historic Tamil Sangams",
+      "Meenakshi Amman Temple features 14 majestic soaring gopurams with over 33,000 sculptures"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Madurai_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "nagapattinam",
+    "name": "Nagapattinam",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Nagapattinam, Tamil Nadu, India",
+    "summary": "Coastal seaport district on the Bay of Bengal, spiritual center of Velankanni Basilica and Nagore Dargah.",
+    "profile": {
+      "Headquarters": "Nagapattinam",
+      "Language": "Tamil",
+      "Food": "Coastal fish curries, Nandu (crab) roast",
+      "Crafts": "Marine fishing, Salt manufacturing"
+    },
+    "area": "1,397 km²",
+    "population": "697,069 (2011 Census)",
+    "points": [
+      "Chola medieval international port linking Sri Lanka, Java, and China",
+      "Basilica of Our Lady of Good Health at Velankanni is called the 'Lourdes of the East'"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nagapattinam_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "namakkal",
+    "name": "Namakkal",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Namakkal, Tamil Nadu, India",
+    "summary": "Egg City and Transport City of South India, built around the single monolithic rock fort of Namakkal Anjaneyar.",
+    "profile": {
+      "Headquarters": "Namakkal",
+      "Language": "Tamil",
+      "Food": "Egg curry specialties, Kongu dishes",
+      "Crafts": "Poultry farming, Lorry body building"
+    },
+    "area": "3,368 km²",
+    "population": "1,726,601 (2011 Census)",
+    "points": [
+      "Produces over 30 million eggs daily, catering to national mid-day meal schemes",
+      "Namakkal Anjaneyar Temple features an 18-foot open-air monolithic idol of Lord Hanuman"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Namakkal_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "nilgiris",
+    "name": "The Nilgiris",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "The Nilgiris, Tamil Nadu, India",
+    "summary": "Blue Mountains of the Western Ghats, celebrated for Nilgiri Orthodox black tea, Ooty hill station, and Toda tribes.",
+    "profile": {
+      "Headquarters": "Udhagamandalam (Ooty)",
+      "Language": "Tamil, Badaga, Toda, Kota, English",
+      "Food": "Nilgiri tea, Homemade chocolates, Varkey pastry",
+      "Crafts": "GI-tagged Toda tribal geometric embroidery, Nilgiri tea processing"
+    },
+    "area": "2,565 km²",
+    "population": "735,394 (2011 Census)",
+    "points": [
+      "Nilgiri Mountain Railway (built 1908) is a UNESCO World Heritage rack-and-pinion steam railway",
+      "Doddabetta peak rises to 2,637 m as the highest summit in the Nilgiris"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nilgiris_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "ramanathapuram",
+    "name": "Ramanathapuram",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Ramanathapuram, Tamil Nadu, India",
+    "summary": "Island district containing sacred Rameswaram Jyotirlinga, Pamban sea bridge, and birthplace of Dr. A. P. J. Abdul Kalam.",
+    "profile": {
+      "Headquarters": "Ramanathapuram",
+      "Language": "Tamil",
+      "Food": "Rameswaram fish curry, Palmyra sweets",
+      "Crafts": "Chank shell carving, Palm leaf basketry"
+    },
+    "area": "4,104 km²",
+    "population": "1,353,445 (2011 Census)",
+    "points": [
+      "Ramanathaswamy Temple features the longest corridor in any Hindu temple (1,220 m) with 1,212 pillars",
+      "Pamban Bridge constructed in 1914 was India's first cantilever sea bridge"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ramanathapuram_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "salem",
+    "name": "Salem",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Salem, Tamil Nadu, India",
+    "summary": "The Steel and Mango City surrounded by hills, famed for Salem Steel Plant, Malgova mangoes, and sago production.",
+    "profile": {
+      "Headquarters": "Salem",
+      "Language": "Tamil",
+      "Food": "Salem Thattu Vadai Set, Malgova mango",
+      "Crafts": "Sago (Sabudana) processing, Silk and venpattu handlooms"
+    },
+    "area": "5,245 km²",
+    "population": "3,482,056 (2011 Census)",
+    "points": [
+      "Supplies over 70% of India's sago and tapioca starch through SAGOSERVE",
+      "Yercaud hill station sits amidst coffee and orange groves in the Shevaroy Hills"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Salem_district,_India",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "thanjavur",
+    "name": "Thanjavur",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Thanjavur, Tamil Nadu, India",
+    "summary": "Rice Bowl of Tamil Nadu on the Kaveri delta, capital of the Chola Empire, home to Brihadisvara Temple.",
+    "profile": {
+      "Headquarters": "Thanjavur",
+      "Language": "Tamil",
+      "Food": "Thanjavur Ashoka halwa, Kaveri meals",
+      "Crafts": "GI-tagged Thanjavur gold leaf paintings, Thanjavur Bobblehead dancing dolls, Art plates"
+    },
+    "area": "3,411 km²",
+    "population": "2,405,890 (2011 Census)",
+    "points": [
+      "Brihadisvara Temple built in 1010 CE by Emperor Rajaraja Chola I, UNESCO World Heritage site",
+      "Saraswathi Mahal Library founded in the 16th century preserves rare palm-leaf manuscripts"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Thanjavur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "tiruchirappalli",
+    "name": "Tiruchirappalli",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Tiruchirappalli, Tamil Nadu, India",
+    "summary": "Historic delta city on the Kaveri river, renowned for the Rockfort Temple and the colossal Sri Ranganathaswamy Temple at Srirangam.",
+    "profile": {
+      "Headquarters": "Tiruchirappalli",
+      "Language": "Tamil",
+      "Food": "Trichy Halwa, Banana leaf meals",
+      "Crafts": "Synthetic diamond cutting, BHEL boiler manufacturing"
+    },
+    "area": "4,403 km²",
+    "population": "2,722,290 (2011 Census)",
+    "points": [
+      "Sri Ranganathaswamy Temple in Srirangam is the largest functioning Hindu temple complex in the world (156 acres)",
+      "Rockfort Temple sits perched atop an ancient 3.8-billion-year-old quartz rock formation"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Tiruchirappalli_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "tirunelveli",
+    "name": "Tirunelveli",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Tirunelveli, Tamil Nadu, India",
+    "summary": "City of Halwa on the perennial Thamirabarani River, famed for Nellaiappar Temple and Courtallam waterfalls.",
+    "profile": {
+      "Headquarters": "Tirunelveli",
+      "Language": "Tamil",
+      "Food": "GI-tagged Tirunelveli wheat Halwa, Sodhi kuzhambu",
+      "Crafts": "Pattamadai pai (reed mats), Brass lamps"
+    },
+    "area": "3,914 km²",
+    "population": "1,665,253 (2011 Census)",
+    "points": [
+      "Nellaiappar Temple built in 7th century CE features famous musical stone pillars",
+      "Thamirabarani is the only perennial river flowing entirely within Tamil Nadu"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Tirunelveli_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "tiruvannamalai",
+    "name": "Tiruvannamalai",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Tiruvannamalai, Tamil Nadu, India",
+    "summary": "Spiritual center of Agni (Fire) element, famed for Annamalaiyar Temple, Giri Valam circumambulation, and Ramana Maharshi ashram.",
+    "profile": {
+      "Headquarters": "Tiruvannamalai",
+      "Language": "Tamil",
+      "Food": "Makkan Peda of Arani, Millet porridge",
+      "Crafts": "Arani silk sarees, Brass idols"
+    },
+    "area": "6,188 km²",
+    "population": "2,464,875 (2011 Census)",
+    "points": [
+      "Annamalaiyar Temple is one of the Pancha Bhoota Stalas representing the element Fire",
+      "Millions participate in monthly 14 km Giri Valam walk barefoot around Mount Arunachala"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Tiruvannamalai_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "vellore",
+    "name": "Vellore",
+    "type": "district",
+    "parent": "tamil-nadu",
+    "path": "Vellore, Tamil Nadu, India",
+    "summary": "Fort city and medical hub on the Palar river, celebrated for Vellore Sepoy Mutiny of 1806 and CMC Hospital.",
+    "profile": {
+      "Headquarters": "Vellore",
+      "Language": "Tamil",
+      "Food": "Ambur Dum Biryani, Vellore Boti curry",
+      "Crafts": "Leather tanning and footwear exports"
+    },
+    "area": "2,036 km²",
+    "population": "1,614,242 (2011 Census)",
+    "points": [
+      "Vellore Fort (built 16th century by Vijayanagara rulers) features double granite moat walls",
+      "Vellore Mutiny on 10 July 1806 was the earliest major military uprising against British rule"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Vellore_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

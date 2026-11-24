@@ -1,0 +1,25 @@
+[
+  {
+    "id": "bhopal-district",
+    "name": "Bhopal",
+    "type": "district",
+    "parent": "madhya-pradesh",
+    "path": "Bhopal, Madhya Pradesh, India",
+    "summary": "Administrative capital district of Madhya Pradesh.",
+    "profile": {
+      "Headquarters": "Bhopal",
+      "Language": "Hindi, Malvi, Bundeli, Bagheli",
+      "Food": "Poha Jalebi, Bhutte Ka Kees, Dal Bafla, Rogan Josh, Biryani of Bhopal",
+      "Crafts": "Chanderi silk-cotton sarees, Maheshwari woven sarees, Bagh block printing, Bell metal craft"
+    },
+    "area": "308,252 km²",
+    "population": "72,626,809 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Madhya Pradesh"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Madhya_Pradesh",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

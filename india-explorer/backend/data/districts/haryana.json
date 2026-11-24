@@ -1,0 +1,25 @@
+[
+  {
+    "id": "haryana-chandigarh-district",
+    "name": "Chandigarh",
+    "type": "district",
+    "parent": "haryana",
+    "path": "Chandigarh, Haryana, India",
+    "summary": "Administrative capital district of Haryana.",
+    "profile": {
+      "Headquarters": "Chandigarh",
+      "Language": "Hindi, Haryanvi, Punjabi",
+      "Food": "Bajra Khichdi, Kadhi Pakora, Kachri ki Sabzi, Besan Masala Roti",
+      "Crafts": "Panipat handloom carpets and durries, Rewari brass sheets, Rohtak pottery, Tilla juttis"
+    },
+    "area": "44,212 km²",
+    "population": "25,351,462 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Haryana"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Haryana",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "puducherry-district",
+    "name": "Puducherry",
+    "type": "district",
+    "parent": "puducherry",
+    "path": "Puducherry, Puducherry, India",
+    "summary": "Administrative capital district of Puducherry.",
+    "profile": {
+      "Headquarters": "Puducherry",
+      "Language": "Tamil, French, English, Telugu, Malayalam",
+      "Food": "Franco-Tamil Bouillabaisse, Ratatouille with rice, Crepes, Mutton Biryani, Pondicherry Fish Curry",
+      "Crafts": "Handmade marbled paper of Sri Aurobindo Ashram, Ceramic pottery of Auroville, Leather footwear, Bronze statues"
+    },
+    "area": "490 km²",
+    "population": "1,247,953 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Puducherry"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Puducherry",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

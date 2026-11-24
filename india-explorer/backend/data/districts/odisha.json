@@ -1,0 +1,24 @@
+[
+  {
+    "id": "puri",
+    "name": "Puri",
+    "type": "district",
+    "parent": "odisha",
+    "path": "Puri, Odisha, India",
+    "summary": "Sacred coastal city of Jagannath Puri Ratha Yatra and Konark Sun Temple.",
+    "profile": {
+      "Headquarters": "Puri",
+      "Food": "Khaja, Mahaprasad",
+      "Crafts": "Pattachitra of Raghurajpur"
+    },
+    "area": "3,479 km²",
+    "population": "1,698,446 (2011 Census)",
+    "points": [
+      "Sacred coastal city of Jagannath Puri Ratha Yatra and Konark Sun Temple."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Puri_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

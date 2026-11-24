@@ -1,0 +1,293 @@
+{
+ "source": "Local Government Directory (LGD), Government Open Data License - India",
+ "states": [
+  {
+   "id": "andaman-and-nicobar-islands",
+   "name": "Andaman and Nicobar Islands",
+   "type": "union territory",
+   "districts": 3,
+   "taluks": 9,
+   "villages": 560
+  },
+  {
+   "id": "andhra-pradesh",
+   "name": "Andhra Pradesh",
+   "type": "state",
+   "districts": 26,
+   "taluks": 678,
+   "villages": 17950
+  },
+  {
+   "id": "arunachal-pradesh",
+   "name": "Arunachal Pradesh",
+   "type": "state",
+   "districts": 25,
+   "taluks": 209,
+   "villages": 5480
+  },
+  {
+   "id": "assam",
+   "name": "Assam",
+   "type": "state",
+   "districts": 35,
+   "taluks": 157,
+   "villages": 27913
+  },
+  {
+   "id": "bihar",
+   "name": "Bihar",
+   "type": "state",
+   "districts": 38,
+   "taluks": 534,
+   "villages": 45410
+  },
+  {
+   "id": "chandigarh",
+   "name": "Chandigarh",
+   "type": "union territory",
+   "districts": 1,
+   "taluks": 1,
+   "villages": 0
+  },
+  {
+   "id": "chhattisgarh",
+   "name": "Chhattisgarh",
+   "type": "state",
+   "districts": 33,
+   "taluks": 150,
+   "villages": 20575
+  },
+  {
+   "id": "delhi",
+   "name": "Delhi",
+   "type": "union territory",
+   "districts": 11,
+   "taluks": 33,
+   "villages": 222
+  },
+  {
+   "id": "goa",
+   "name": "Goa",
+   "type": "state",
+   "districts": 2,
+   "taluks": 12,
+   "villages": 410
+  },
+  {
+   "id": "gujarat",
+   "name": "Gujarat",
+   "type": "state",
+   "districts": 33,
+   "taluks": 270,
+   "villages": 19034
+  },
+  {
+   "id": "haryana",
+   "name": "Haryana",
+   "type": "state",
+   "districts": 22,
+   "taluks": 143,
+   "villages": 7653
+  },
+  {
+   "id": "himachal-pradesh",
+   "name": "Himachal Pradesh",
+   "type": "state",
+   "districts": 12,
+   "taluks": 177,
+   "villages": 21253
+  },
+  {
+   "id": "jammu-and-kashmir",
+   "name": "Jammu and Kashmir",
+   "type": "union territory",
+   "districts": 20,
+   "taluks": 202,
+   "villages": 6856
+  },
+  {
+   "id": "jharkhand",
+   "name": "Jharkhand",
+   "type": "state",
+   "districts": 24,
+   "taluks": 264,
+   "villages": 32717
+  },
+  {
+   "id": "karnataka",
+   "name": "Karnataka",
+   "type": "state",
+   "districts": 31,
+   "taluks": 230,
+   "villages": 30715
+  },
+  {
+   "id": "kerala",
+   "name": "Kerala",
+   "type": "state",
+   "districts": 14,
+   "taluks": 78,
+   "villages": 1666
+  },
+  {
+   "id": "ladakh",
+   "name": "Ladakh",
+   "type": "union territory",
+   "districts": 2,
+   "taluks": 12,
+   "villages": 243
+  },
+  {
+   "id": "lakshadweep",
+   "name": "Lakshadweep",
+   "type": "union territory",
+   "districts": 1,
+   "taluks": 10,
+   "villages": 27
+  },
+  {
+   "id": "madhya-pradesh",
+   "name": "Madhya Pradesh",
+   "type": "state",
+   "districts": 52,
+   "taluks": 424,
+   "villages": 55777
+  },
+  {
+   "id": "maharashtra",
+   "name": "Maharashtra",
+   "type": "state",
+   "districts": 36,
+   "taluks": 355,
+   "villages": 44595
+  },
+  {
+   "id": "manipur",
+   "name": "Manipur",
+   "type": "state",
+   "districts": 16,
+   "taluks": 65,
+   "villages": 3856
+  },
+  {
+   "id": "meghalaya",
+   "name": "Meghalaya",
+   "type": "state",
+   "districts": 12,
+   "taluks": 46,
+   "villages": 6798
+  },
+  {
+   "id": "mizoram",
+   "name": "Mizoram",
+   "type": "state",
+   "districts": 11,
+   "taluks": 26,
+   "villages": 864
+  },
+  {
+   "id": "nagaland",
+   "name": "Nagaland",
+   "type": "state",
+   "districts": 14,
+   "taluks": 120,
+   "villages": 1639
+  },
+  {
+   "id": "odisha",
+   "name": "Odisha",
+   "type": "state",
+   "districts": 30,
+   "taluks": 476,
+   "villages": 52135
+  },
+  {
+   "id": "puducherry",
+   "name": "Puducherry",
+   "type": "union territory",
+   "districts": 4,
+   "taluks": 8,
+   "villages": 127
+  },
+  {
+   "id": "punjab",
+   "name": "Punjab",
+   "type": "state",
+   "districts": 23,
+   "taluks": 93,
+   "villages": 12782
+  },
+  {
+   "id": "rajasthan",
+   "name": "Rajasthan",
+   "type": "state",
+   "districts": 33,
+   "taluks": 369,
+   "villages": 46736
+  },
+  {
+   "id": "sikkim",
+   "name": "Sikkim",
+   "type": "state",
+   "districts": 6,
+   "taluks": 16,
+   "villages": 337
+  },
+  {
+   "id": "tamil-nadu",
+   "name": "Tamil Nadu",
+   "type": "state",
+   "districts": 38,
+   "taluks": 313,
+   "villages": 18482
+  },
+  {
+   "id": "telangana",
+   "name": "Telangana",
+   "type": "state",
+   "districts": 33,
+   "taluks": 589,
+   "villages": 11226
+  },
+  {
+   "id": "dadra-and-nagar-haveli-and-daman-and-diu",
+   "name": "Dadra and Nagar Haveli and Daman and Diu",
+   "type": "union territory",
+   "districts": 3,
+   "taluks": 3,
+   "villages": 101
+  },
+  {
+   "id": "tripura",
+   "name": "Tripura",
+   "type": "state",
+   "districts": 8,
+   "taluks": 23,
+   "villages": 898
+  },
+  {
+   "id": "uttarakhand",
+   "name": "Uttarakhand",
+   "type": "state",
+   "districts": 13,
+   "taluks": 128,
+   "villages": 17058
+  },
+  {
+   "id": "uttar-pradesh",
+   "name": "Uttar Pradesh",
+   "type": "state",
+   "districts": 75,
+   "taluks": 352,
+   "villages": 108829
+  },
+  {
+   "id": "west-bengal",
+   "name": "West Bengal",
+   "type": "state",
+   "districts": 23,
+   "taluks": 346,
+   "villages": 41001
+  }
+ ]
+}

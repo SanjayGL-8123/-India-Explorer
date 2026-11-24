@@ -1,0 +1,18 @@
+[
+  {
+    "id": "jharkhand-heritage-monument",
+    "name": "Jharkhand Heritage Monument",
+    "type": "place",
+    "parent": "ranchi-district",
+    "path": "Jharkhand Heritage Monument, Ranchi, Jharkhand, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Jharkhand.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Jharkhand",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Jharkhand",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

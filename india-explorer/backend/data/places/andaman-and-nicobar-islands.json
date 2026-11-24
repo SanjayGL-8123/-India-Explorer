@@ -1,0 +1,18 @@
+[
+  {
+    "id": "andaman-and-nicobar-islands-heritage-monument",
+    "name": "Andaman and Nicobar Islands Heritage Monument",
+    "type": "place",
+    "parent": "port-blair-district",
+    "path": "Andaman and Nicobar Islands Heritage Monument, Port Blair, Andaman and Nicobar Islands, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Andaman and Nicobar Islands.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Andaman and Nicobar Islands",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

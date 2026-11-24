@@ -1,0 +1,18 @@
+[
+  {
+    "id": "nagaland-heritage-monument",
+    "name": "Nagaland Heritage Monument",
+    "type": "place",
+    "parent": "kohima-district",
+    "path": "Nagaland Heritage Monument, Kohima, Nagaland, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Nagaland.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Nagaland",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nagaland",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

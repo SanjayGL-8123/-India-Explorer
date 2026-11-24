@@ -1,0 +1,46 @@
+[
+  {
+    "id": "kamrup-metropolitan",
+    "name": "Kamrup Metropolitan",
+    "type": "district",
+    "parent": "assam",
+    "path": "Kamrup Metropolitan, Assam, India",
+    "summary": "Gateway of the Northeast containing Guwahati, Brahmaputra river, and Kamakhya Temple.",
+    "profile": {
+      "Headquarters": "Kamrup Metropolitan",
+      "Food": "Masor Tenga, Khaar",
+      "Crafts": "Brass metalware"
+    },
+    "area": "1,037 km²",
+    "population": "1,253,938 (2011 Census)",
+    "points": [
+      "Gateway of the Northeast containing Guwahati, Brahmaputra river, and Kamakhya Temple."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kamrup_Metropolitan_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "golaghat",
+    "name": "Golaghat",
+    "type": "district",
+    "parent": "assam",
+    "path": "Golaghat, Assam, India",
+    "summary": "Heart of Kaziranga National Park, home to two-thirds of the world's great one-horned rhinos.",
+    "profile": {
+      "Headquarters": "Golaghat",
+      "Food": "Assam tea, Pitha",
+      "Crafts": "Tea packaging"
+    },
+    "area": "3,502 km²",
+    "population": "1,066,888 (2011 Census)",
+    "points": [
+      "Heart of Kaziranga National Park, home to two-thirds of the world's great one-horned rhinos."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Golaghat_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

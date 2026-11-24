@@ -1,0 +1,25 @@
+[
+  {
+    "id": "kavaratti-district",
+    "name": "Kavaratti",
+    "type": "district",
+    "parent": "lakshadweep",
+    "path": "Kavaratti, Lakshadweep, India",
+    "summary": "Administrative capital district of Lakshadweep.",
+    "profile": {
+      "Headquarters": "Kavaratti",
+      "Language": "Malayalam, Jeseri, Mahl",
+      "Food": "Mus Kavaab (bonito fish skewers), Rayereha spicy tuna curry, Coconut fish roast, Malabar Parotta",
+      "Crafts": "Coir twisted ropes and mats, Coconut shell art, Shell bead necklaces, Coral-stone carving"
+    },
+    "area": "32 km²",
+    "population": "64,473 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Lakshadweep"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Lakshadweep",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

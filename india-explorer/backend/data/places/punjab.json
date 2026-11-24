@@ -1,0 +1,19 @@
+[
+  {
+    "id": "golden-temple-amritsar",
+    "name": "Sri Harmandir Sahib (Golden Temple)",
+    "type": "place",
+    "parent": "amritsar",
+    "path": "Sri Harmandir Sahib (Golden Temple), Amritsar, India",
+    "summary": "Preeminent spiritual sanctuary of Sikhism, bathed in real gold and surrounded by the holy Amrit Sarovar.",
+    "points": [
+      "Founded in 1577 CE by fourth Sikh Guru, Guru Ram Das; sanctum gilded with pure gold leaf in 1830 by Maharaja Ranjit Singh",
+      "Sikh Empire and Gurus",
+      "Designed with four open entrances welcoming all castes and faiths; serves over 100,000 free meals daily in world's largest community kitchen (Langar)"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Sri_Harmandir_Sahib_(Golden_Temple)",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

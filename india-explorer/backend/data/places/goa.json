@@ -1,0 +1,36 @@
+[
+  {
+    "id": "basilica-of-bom-jesus",
+    "name": "Basilica of Bom Jesus, Old Goa",
+    "type": "place",
+    "parent": "north-goa",
+    "path": "Basilica of Bom Jesus, Old Goa, North Goa, India",
+    "summary": "16th-century Jesuit Baroque church enshrining the sacred relics of St. Francis Xavier.",
+    "points": [
+      "Constructed between 1594 and 1605 CE; UNESCO World Heritage Site",
+      "Portuguese Baroque colonial architecture",
+      "Houses the mortal body of Saint Francis Xavier in a silver casket crafted by 17th-century Florentine silversmiths"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Basilica_of_Bom_Jesus,_Old_Goa",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "shanta-durga-temple",
+    "name": "Shanta Durga Temple, Kavlem",
+    "type": "place",
+    "parent": "south-goa",
+    "path": "Shanta Durga Temple, Kavlem, South Goa, India",
+    "summary": "Premier Hindu temple of Goa dedicated to the peaceful mediator form of Goddess Durga.",
+    "points": [
+      "Constructed in 1738 CE during the reign of Maratha ruler Chhatrapati Shahu of Satara",
+      "Maratha and Saraswat Brahmin heritage",
+      "Distinctive Goan temple architecture combining traditional Hindu pyramidal shikharas with Portuguese arched windows and Deepastambha lamp tower"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Shanta_Durga_Temple,_Kavlem",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

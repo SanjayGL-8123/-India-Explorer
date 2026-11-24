@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ahmedabad",
+    "name": "Ahmedabad",
+    "type": "district",
+    "parent": "gujarat",
+    "path": "Ahmedabad, Gujarat, India",
+    "summary": "India's first UNESCO World Heritage City on the Sabarmati river.",
+    "profile": {
+      "Headquarters": "Ahmedabad",
+      "Food": "Dhokla, Khandvi, Fafda",
+      "Crafts": "Bandhani, Ashavali sarees"
+    },
+    "area": "8,087 km²",
+    "population": "7,214,225 (2011 Census)",
+    "points": [
+      "India's first UNESCO World Heritage City on the Sabarmati river."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ahmedabad_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "narmada",
+    "name": "Narmada",
+    "type": "district",
+    "parent": "gujarat",
+    "path": "Narmada, Gujarat, India",
+    "summary": "Home to the world's tallest statue, the 182-meter Statue of Unity.",
+    "profile": {
+      "Headquarters": "Narmada",
+      "Food": "Gujarati thali",
+      "Crafts": "Tribal bamboo craft"
+    },
+    "area": "2,749 km²",
+    "population": "590,297 (2011 Census)",
+    "points": [
+      "Home to the world's tallest statue, the 182-meter Statue of Unity."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Narmada_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "gir-somnath",
+    "name": "Gir Somnath",
+    "type": "district",
+    "parent": "gujarat",
+    "path": "Gir Somnath, Gujarat, India",
+    "summary": "Sacred first Jyotirlinga at Somnath and Gir forest Asiatic lions.",
+    "profile": {
+      "Headquarters": "Gir Somnath",
+      "Food": "Seafood, Kathiyawadi thali",
+      "Crafts": "Fisheries, Limestone"
+    },
+    "area": "3,754 km²",
+    "population": "1,217,477 (2011 Census)",
+    "points": [
+      "Sacred first Jyotirlinga at Somnath and Gir forest Asiatic lions."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Gir_Somnath_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

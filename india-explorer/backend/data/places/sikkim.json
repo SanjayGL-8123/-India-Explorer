@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sikkim-heritage-monument",
+    "name": "Sikkim Heritage Monument",
+    "type": "place",
+    "parent": "gangtok-district",
+    "path": "Sikkim Heritage Monument, Gangtok, Sikkim, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Sikkim.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Sikkim",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Sikkim",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ahmednagar",
+    "name": "Ahilyanagar (Ahmednagar)",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Ahilyanagar, Maharashtra, India",
+    "summary": "Historic fortress district, sugar cooperative capital, home to Shirdi Sai Baba Temple and Shani Shingnapur.",
+    "profile": {
+      "Headquarters": "Ahilyanagar",
+      "Language": "Marathi",
+      "Food": "Jowar bhakri, Pithla, Shirdi Prasad laddu",
+      "Crafts": "Sugar manufacturing, Handloom weaving"
+    },
+    "area": "17,048 km²",
+    "population": "4,543,159 (2011 Census)",
+    "points": [
+      "Shirdi is the sacred spiritual sanctuary of 19th-century saint Sai Baba",
+      "Ahmednagar Fort was constructed in 1490 CE by Malik Ahmad Nizam Shah I"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ahmednagar_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "chhatrapati-sambhajinagar",
+    "name": "Chhatrapati Sambhajinagar (Aurangabad)",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Chhatrapati Sambhajinagar, Maharashtra, India",
+    "summary": "Tourism Capital of Maharashtra, world-renowned gateway to Ajanta and Ellora UNESCO rock cave temples.",
+    "profile": {
+      "Headquarters": "Chhatrapati Sambhajinagar",
+      "Language": "Marathi, Urdu",
+      "Food": "Naan Qalia, Tahari",
+      "Crafts": "GI-tagged Paithani silk sarees, Himroo shawls, Bidriware"
+    },
+    "area": "10,107 km²",
+    "population": "3,701,282 (2011 Census)",
+    "points": [
+      "Ellora Cave 16 (Kailasa Temple) is the largest monolithic rock-cut structure on Earth",
+      "Bibi Ka Maqbara constructed in 1660 CE is known as the 'Taj of the Deccan'"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Aurangabad_district,_Maharashtra",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kolhapur",
+    "name": "Kolhapur",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Kolhapur, Maharashtra, India",
+    "summary": "Historic royal Maratha capital on the Panchganga River, famed for Mahalakshmi Temple, wrestling, and leather footwear.",
+    "profile": {
+      "Headquarters": "Kolhapur",
+      "Language": "Marathi",
+      "Food": "Kolhapuri Tambda Rassa, Pandhra Rassa, Kolhapuri Misal",
+      "Crafts": "GI-tagged Kolhapuri chappals (leather sandals), Kolhapuri Saaj jewelry"
+    },
+    "area": "7,685 km²",
+    "population": "3,876,001 (2011 Census)",
+    "points": [
+      "Mahalakshmi (Ambabai) Temple is an ancient 7th-century Chalukyan Shakti shrine",
+      "Revered center of traditional Indian Kushti wrestling at historic talims"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kolhapur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "mumbai-city",
+    "name": "Mumbai City",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Mumbai City, Maharashtra, India",
+    "summary": "Financial and entertainment capital of India, island city of Gateway of India, Dalal Street, and Bollywood.",
+    "profile": {
+      "Headquarters": "Mumbai",
+      "Language": "Marathi, Hindi, English",
+      "Food": "Vada Pav, Pav Bhaji, Bombay Duck, Bhel Puri",
+      "Crafts": "Commercial publishing, Diamond polishing"
+    },
+    "area": "157 km²",
+    "population": "3,085,411 (2011 Census)",
+    "points": [
+      "Gateway of India erected in 1924 overlooking the Arabian Sea",
+      "Victorian Gothic and Art Deco Ensembles of Mumbai inscribed as UNESCO World Heritage Site in 2018"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Mumbai_City_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "mumbai-suburban",
+    "name": "Mumbai Suburban",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Mumbai Suburban, Maharashtra, India",
+    "summary": "Metropolitan suburban territory housing Sanjay Gandhi National Park, Kanheri Buddhist Caves, and film studios.",
+    "profile": {
+      "Headquarters": "Bandra",
+      "Language": "Marathi, Hindi, English",
+      "Food": "Street chaat, Frankie",
+      "Crafts": "Film production, IT services"
+    },
+    "area": "446 km²",
+    "population": "9,356,962 (2011 Census)",
+    "points": [
+      "Sanjay Gandhi National Park is one of the world's few major protected forests inside city limits",
+      "Kanheri Caves feature 109 rock-cut Buddhist chaityas and viharas (1st century BCE–10th century CE)"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Mumbai_Suburban_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "nagpur",
+    "name": "Nagpur",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Nagpur, Maharashtra, India",
+    "summary": "Orange City and Winter Capital of Maharashtra, geographical center of India marked by the Zero Mile Stone.",
+    "profile": {
+      "Headquarters": "Nagpur",
+      "Language": "Marathi, Hindi",
+      "Food": "Tarri Poha, Saoji Mutton, Nagpur Orange barfi",
+      "Crafts": "Nagpur Mandarin orange processing"
+    },
+    "area": "9,892 km²",
+    "population": "4,653,570 (2011 Census)",
+    "points": [
+      "Zero Mile Stone erected by British Great Trigonometrical Survey of India in 1907",
+      "Deekshabhoomi is where Dr. B. R. Ambedkar embraced Buddhism with 600,000 followers on 14 October 1956"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nagpur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "nashik",
+    "name": "Nashik",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Nashik, Maharashtra, India",
+    "summary": "Wine Capital of India on the Godavari river, sacred Kumbh Mela city, home to Trimbakeshwar Jyotirlinga.",
+    "profile": {
+      "Headquarters": "Nashik",
+      "Language": "Marathi",
+      "Food": "Misal Pav, Poha, Table grapes, Wine",
+      "Crafts": "GI-tagged Nashik Valley Wine, Silver jewellery"
+    },
+    "area": "15,530 km²",
+    "population": "6,107,187 (2011 Census)",
+    "points": [
+      "Trimbakeshwar Temple houses one of the 12 sacred Jyotirlingas with three-faced lingam (Brahma, Vishnu, Shiva)",
+      "Hosts the monumental Simhastha Kumbh Mela once every 12 years along the Ramkund ghats"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nashik_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "pune",
+    "name": "Pune",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Pune, Maharashtra, India",
+    "summary": "Oxford of the East and cultural capital of Maharashtra, seat of the Peshwas, automotive and IT metropolis.",
+    "profile": {
+      "Headquarters": "Pune",
+      "Language": "Marathi, English",
+      "Food": "Puneri Misal, Bhakarwadi, Pithla Bhakri",
+      "Crafts": "Bakharwadi savories, Automobile engineering"
+    },
+    "area": "15,643 km²",
+    "population": "9,429,408 (2011 Census)",
+    "points": [
+      "Shaniwar Wada was the historic seven-story fortified palace seat of the Maratha Peshwas built in 1732 CE",
+      "Aga Khan Palace served as prison for Mahatma Gandhi and Kasturba Gandhi during the Quit India movement"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Pune_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "solapur",
+    "name": "Solapur",
+    "type": "district",
+    "parent": "maharashtra",
+    "path": "Solapur, Maharashtra, India",
+    "summary": "Textile and pilgrimage center, home to Siddheshwar Temple and sacred Vithoba sanctuary at Pandharpur.",
+    "profile": {
+      "Headquarters": "Solapur",
+      "Language": "Marathi, Kannada, Telugu",
+      "Food": "Shenga Chutney, Jowar Bhakri",
+      "Crafts": "GI-tagged Solapur Chaddar (jacquard bedsheets) and Terry Towels"
+    },
+    "area": "14,895 km²",
+    "population": "4,317,756 (2011 Census)",
+    "points": [
+      "Pandharpur Vithoba Temple is the spiritual focal point of Maharashtra's historic Varkari Bhakti movement",
+      "Largest producer of jacquard bedsheets and terry towels in India"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Solapur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

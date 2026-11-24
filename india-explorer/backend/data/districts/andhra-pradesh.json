@@ -1,0 +1,314 @@
+[
+  {
+    "id": "alluri-sitharama-raju",
+    "name": "Alluri Sitharama Raju",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Alluri Sitharama Raju, Andhra Pradesh, India",
+    "summary": "Forested Eastern Ghats tribal highland, home to Araku Valley coffee and Borra Caves.",
+    "profile": {
+      "Headquarters": "Paderu",
+      "Language": "Telugu",
+      "Food": "Bongu Chicken (Bamboo chicken)",
+      "Crafts": "GI-tagged Araku Valley Arabica Coffee"
+    },
+    "area": "12,251 km²",
+    "population": "953,960 (2011 Census)",
+    "points": [
+      "Named after freedom fighter Alluri Sitarama Raju who led the Rampa Rebellion of 1922",
+      "Borra Caves contain 150-million-year-old limestone stalactites and stalagmites"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Alluri_Sitharama_Raju_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "anakapalli",
+    "name": "Anakapalli",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Anakapalli, Tamil Nadu, India",
+    "summary": "Second-largest jaggery trading market in India, home to Buddhist rock-cut monasteries at Bojjannakonda.",
+    "profile": {
+      "Headquarters": "Anakapalli",
+      "Language": "Telugu",
+      "Food": "Anakapalli jaggery sweets",
+      "Crafts": "Etikoppaka lacquer wooden toys"
+    },
+    "area": "4,292 km²",
+    "population": "1,726,998 (2011 Census)",
+    "points": [
+      "Bojjannakonda Buddhist rock-cut monolithic stupas date from 4th to 9th century CE",
+      "GI-tagged Etikoppaka toys crafted from Ankudu wood with organic vegetable dyes"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Anakapalli_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "ananthapuramu",
+    "name": "Ananthapuramu",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Ananthapuramu, Andhra Pradesh, India",
+    "summary": "Historic Rayalaseema district boasting 16th-century Lepakshi hanging pillar temple and Thimmamma Marrimanu banyan.",
+    "profile": {
+      "Headquarters": "Ananthapuramu",
+      "Language": "Telugu",
+      "Food": "Ragi Sankati with Natukodi Pulusu",
+      "Crafts": "Dharmavaram handloom silk sarees"
+    },
+    "area": "10,205 km²",
+    "population": "2,241,105 (2011 Census)",
+    "points": [
+      "Lepakshi Veerabhadra Temple features a monolithic Nandi and hanging stone pillar",
+      "Thimmamma Marrimanu is one of the world's largest banyan tree canopies spreading over 4.7 acres"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ananthapuramu_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "bapatla",
+    "name": "Bapatla",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Bapatla, Andhra Pradesh, India",
+    "summary": "Coastal agricultural tract on the Bay of Bengal celebrated for Suryalanka beach and Chirala handloom textiles.",
+    "profile": {
+      "Headquarters": "Bapatla",
+      "Language": "Telugu",
+      "Food": "Seafood, Rice delicacies",
+      "Crafts": "Chirala handloom cotton and silk sarees"
+    },
+    "area": "3,829 km²",
+    "population": "1,586,918 (2011 Census)",
+    "points": [
+      "Chirala handloom weaving cluster famed for Kuppadam border sarees",
+      "Bapatla hosts premier agricultural and engineering research colleges"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Bapatla_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "chittoor",
+    "name": "Chittoor",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Chittoor, Andhra Pradesh, India",
+    "summary": "Borderland district in the southern tip of Andhra Pradesh, famous for Totapuri mango processing and Kanipakam temple.",
+    "profile": {
+      "Headquarters": "Chittoor",
+      "Language": "Telugu, Tamil",
+      "Food": "Mango pulp, Pesarattu",
+      "Crafts": "Totapuri mango pulp processing, Jaggery"
+    },
+    "area": "6,855 km²",
+    "population": "1,872,951 (2011 Census)",
+    "points": [
+      "Kanipakam Varasiddhi Vinayaka Temple features a growing self-manifested (Swayambhu) Ganesha idol",
+      "Major center of dairy farming and milk processing in South India"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Chittoor_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "east-godavari",
+    "name": "East Godavari",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "East Godavari, Andhra Pradesh, India",
+    "summary": "Cultural and literary capital on the Godavari river centered at Rajamahendravaram, birthplace of Adikavi Nannaya.",
+    "profile": {
+      "Headquarters": "Rajamahendravaram",
+      "Language": "Telugu",
+      "Food": "Pootharekulu, Rajahmundry Rose Milk",
+      "Crafts": "Coir products, Godavari river boats"
+    },
+    "area": "2,561 km²",
+    "population": "1,832,332 (2011 Census)",
+    "points": [
+      "Sir Arthur Cotton Barrage across the Godavari irrigates over one million acres of paddy",
+      "Adikavi Nannaya began translating the Mahabharata into Telugu here in the 11th century"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/East_Godavari_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "guntur",
+    "name": "Guntur",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Guntur, Andhra Pradesh, India",
+    "summary": "Spicy capital of India, housing Asia's largest chilli yard, historic Kondaveedu Fort, and tobacco export markets.",
+    "profile": {
+      "Headquarters": "Guntur",
+      "Language": "Telugu",
+      "Food": "Guntur Gongura Mutton, Mirchi Bajji",
+      "Crafts": "GI-tagged Guntur Sannam Red Chillies"
+    },
+    "area": "2,443 km²",
+    "population": "2,091,075 (2011 Census)",
+    "points": [
+      "Guntur Mirchi Yard is Asia's largest market for dry chillies, trading Guntur Sannam varieties",
+      "Kondaveedu Fort was built in the 14th century by the Reddy dynasty kings"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Guntur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "krishna",
+    "name": "Krishna",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Krishna, Andhra Pradesh, India",
+    "summary": "Delta territory centered at coastal Machilipatnam, historic port of Masulipatnam and birthplace of Kuchipudi dance.",
+    "profile": {
+      "Headquarters": "Machilipatnam",
+      "Language": "Telugu",
+      "Food": "Bandar Laddu, Bandar Halwa",
+      "Crafts": "GI-tagged Machilipatnam Kalamkari block printing"
+    },
+    "area": "3,775 km²",
+    "population": "1,735,079 (2011 Census)",
+    "points": [
+      "Machilipatnam was major 17th-century trading port for British, French, and Dutch East India Companies",
+      "Kuchipudi village is the origin and spiritual home of classical Indian Kuchipudi dance"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Krishna_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kurnool",
+    "name": "Kurnool",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Kurnool, Andhra Pradesh, India",
+    "summary": "Gateway of Rayalaseema and first capital of Andhra State (1953–56), home to Belum Caves and Konda Reddy Fort.",
+    "profile": {
+      "Headquarters": "Kurnool",
+      "Language": "Telugu",
+      "Food": "Uggani Bajji, Rayalaseema Pulao",
+      "Crafts": "Stone carving, Cotton weaving"
+    },
+    "area": "7,980 km²",
+    "population": "2,271,686 (2011 Census)",
+    "points": [
+      "Served as capital of Andhra State from 1953 to 1956",
+      "Belum Caves is the second largest natural cave system in the Indian subcontinent (3.2 km long)"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kurnool_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "nandyal",
+    "name": "Nandyal",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Nandyal, Andhra Pradesh, India",
+    "summary": "Sacred territory surrounded by nine Nandi shrines (Nava Nandulu), housing Mallikarjuna Jyotirlinga at Srisailam.",
+    "profile": {
+      "Headquarters": "Nandyal",
+      "Language": "Telugu",
+      "Food": "Jowar roti, Gongura pachadi",
+      "Crafts": "Cotton handlooms, Stone sculptures"
+    },
+    "area": "9,682 km²",
+    "population": "1,781,777 (2011 Census)",
+    "points": [
+      "Srisailam Mallikarjuna Temple is one of only three shrines in India that is both a Jyotirlinga and a Shakti Peetha",
+      "Nagarjunsagar-Srisailam Tiger Reserve is the largest tiger reserve in India by area"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Nandyal_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "ntr",
+    "name": "NTR",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "NTR, Andhra Pradesh, India",
+    "summary": "Urban economic hub centered at Vijayawada on the Krishna river, home to Kanaka Durga Temple and Prakasam Barrage.",
+    "profile": {
+      "Headquarters": "Vijayawada",
+      "Language": "Telugu",
+      "Food": "Punugulu, Ulavacharu Biryani",
+      "Crafts": "Kondapalli painted wooden toys"
+    },
+    "area": "3,316 km²",
+    "population": "2,218,591 (2011 Census)",
+    "points": [
+      "Kanaka Durga Temple sits atop Indrakeeladri hill overlooking the Krishna river",
+      "Kondapalli toys crafted from Tella Poniki softwood since 14th century"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/NTR_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "tirupati",
+    "name": "Tirupati",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Tirupati, Andhra Pradesh, India",
+    "summary": "Spiritual Capital of Andhra Pradesh, home to the sacred Venkateswara Temple on the Seven Hills of Tirumala.",
+    "profile": {
+      "Headquarters": "Tirupati",
+      "Language": "Telugu",
+      "Food": "GI-tagged Tirupati Laddu, Pulihora",
+      "Crafts": "Wood carving, Red Sanders products, Brass lamps"
+    },
+    "area": "8,231 km²",
+    "population": "2,196,984 (2011 Census)",
+    "points": [
+      "Venkateswara Temple at Tirumala attracts 60,000 to 100,000 pilgrims daily, receiving over ₹1,400 crore annually",
+      "Includes Indian spaceport Satish Dhawan Space Centre (SDSC-SHAR) at Sriharikota barrier island"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Tirupati_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "visakhapatnam",
+    "name": "Visakhapatnam",
+    "type": "district",
+    "parent": "andhra-pradesh",
+    "path": "Visakhapatnam, Andhra Pradesh, India",
+    "summary": "The City of Destiny, major natural deep-water port on the Bay of Bengal, naval base, and industrial metro.",
+    "profile": {
+      "Headquarters": "Visakhapatnam",
+      "Language": "Telugu, English",
+      "Food": "Vizag Seafood, Madugula Halwa",
+      "Crafts": "Shipbuilding, Steel production"
+    },
+    "area": "1,048 km²",
+    "population": "1,959,544 (2011 Census)",
+    "points": [
+      "Headquarters of the Eastern Naval Command of the Indian Navy",
+      "Features Dolphin's Nose lighthouse, Submarine Museum (INS Kursura), and Simhachalam temple"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Visakhapatnam_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

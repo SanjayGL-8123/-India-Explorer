@@ -1,0 +1,25 @@
+[
+  {
+    "id": "imphal-district",
+    "name": "Imphal",
+    "type": "district",
+    "parent": "manipur",
+    "path": "Imphal, Manipur, India",
+    "summary": "Administrative capital district of Manipur.",
+    "profile": {
+      "Headquarters": "Imphal",
+      "Language": "Meitei (Manipuri)",
+      "Food": "Kangshoi vegetable stew, Eromba fish mash, Singju spicy salad, Chak-hao black rice kheer",
+      "Crafts": "Longpi black stone pottery, Kauna water reed mats, Shaphee Lanphee embroidered shawls, Bamboo baskets"
+    },
+    "area": "22,327 km²",
+    "population": "2,855,794 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Manipur"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Manipur",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

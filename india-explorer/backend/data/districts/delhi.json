@@ -1,0 +1,68 @@
+[
+  {
+    "id": "new-delhi",
+    "name": "New Delhi",
+    "type": "district",
+    "parent": "delhi",
+    "path": "New Delhi, Delhi, India",
+    "summary": "Seat of the Government of India, Rashtrapati Bhavan, and Parliament.",
+    "profile": {
+      "Headquarters": "New Delhi",
+      "Food": "Chaat, Paranthas",
+      "Crafts": "Handicrafts"
+    },
+    "area": "35 km²",
+    "population": "142,004 (2011 Census)",
+    "points": [
+      "Seat of the Government of India, Rashtrapati Bhavan, and Parliament."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/New_Delhi_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "central-delhi",
+    "name": "Central Delhi",
+    "type": "district",
+    "parent": "delhi",
+    "path": "Central Delhi, Delhi, India",
+    "summary": "Historic Walled City of Old Delhi, Red Fort, and Chandni Chowk.",
+    "profile": {
+      "Headquarters": "Central Delhi",
+      "Food": "Mughlai, Kebabs",
+      "Crafts": "Zardozi, Jewelry"
+    },
+    "area": "25 km²",
+    "population": "582,320 (2011 Census)",
+    "points": [
+      "Historic Walled City of Old Delhi, Red Fort, and Chandni Chowk."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Central_Delhi_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "south-delhi",
+    "name": "South Delhi",
+    "type": "district",
+    "parent": "delhi",
+    "path": "South Delhi, Delhi, India",
+    "summary": "Upscale commercial district, home to Qutub Minar and Lotus Temple.",
+    "profile": {
+      "Headquarters": "South Delhi",
+      "Food": "Cafes, Street food",
+      "Crafts": "Pottery, Leather"
+    },
+    "area": "250 km²",
+    "population": "2,731,929 (2011 Census)",
+    "points": [
+      "Upscale commercial district, home to Qutub Minar and Lotus Temple."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/South_Delhi_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

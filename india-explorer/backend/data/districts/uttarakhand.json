@@ -1,0 +1,25 @@
+[
+  {
+    "id": "dehradun-district",
+    "name": "Dehradun",
+    "type": "district",
+    "parent": "uttarakhand",
+    "path": "Dehradun, Uttarakhand, India",
+    "summary": "Administrative capital district of Uttarakhand.",
+    "profile": {
+      "Headquarters": "Dehradun",
+      "Language": "Hindi, Garhwali, Kumaoni",
+      "Food": "Kafuli, Chainssoo, Phaanu, Aloo ke Gutke, Bhatt ki Churkani",
+      "Crafts": "Aipan ritual floor art of Kumaon, Ringal bamboo basketry, Woodcarvings of Garhwal, Woollen Pankhi blankets"
+    },
+    "area": "53,483 km²",
+    "population": "10,086,292 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Uttarakhand"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Uttarakhand",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

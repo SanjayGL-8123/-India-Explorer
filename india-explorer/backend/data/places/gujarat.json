@@ -1,0 +1,36 @@
+[
+  {
+    "id": "somnath-temple",
+    "name": "Somnath Temple, Prabhas Patan",
+    "type": "place",
+    "parent": "gir-somnath",
+    "path": "Somnath Temple, Prabhas Patan, Gir Somnath, India",
+    "summary": "The first of the twelve sacred Shiva Jyotirlingas, overlooking the Arabian Sea.",
+    "points": [
+      "Reconstructed in 1951 CE in classical Chaulukya (Solanki) style initiated by Sardar Vallabhbhai Patel",
+      "Solanki dynasty heritage with modern national reconstruction",
+      "Stands at the ancient Triveni Sangam (confluence of Kapila, Hiran, and Saraswati rivers)"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Somnath_Temple,_Prabhas_Patan",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "statue-of-unity",
+    "name": "Statue of Unity, Kevadia",
+    "type": "place",
+    "parent": "narmada",
+    "path": "Statue of Unity, Kevadia, Narmada, India",
+    "summary": "The world's tallest statue standing 182 meters high, honoring Sardar Vallabhbhai Patel.",
+    "points": [
+      "Inaugurated on 31 October 2018; designed by Padma Bhushan sculptor Ram V. Sutar",
+      "Commemorates Iron Man of India Sardar Vallabhbhai Patel who unified 562 princely states",
+      "Stands on Sadhu Bet island facing the Sardar Sarovar Dam on the Narmada River"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Statue_of_Unity,_Kevadia",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

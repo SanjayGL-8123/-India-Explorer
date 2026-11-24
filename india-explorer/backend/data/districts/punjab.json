@@ -1,0 +1,24 @@
+[
+  {
+    "id": "amritsar",
+    "name": "Amritsar",
+    "type": "district",
+    "parent": "punjab",
+    "path": "Amritsar, Punjab, India",
+    "summary": "Holy spiritual city of the Golden Temple and historic Jallianwala Bagh.",
+    "profile": {
+      "Headquarters": "Amritsar",
+      "Food": "Amritsari Kulcha, Lassi, Maa ki Dal",
+      "Crafts": "Phulkari, Juttis"
+    },
+    "area": "2,683 km²",
+    "population": "2,490,656 (2011 Census)",
+    "points": [
+      "Holy spiritual city of the Golden Temple and historic Jallianwala Bagh."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Amritsar_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

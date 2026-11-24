@@ -1,0 +1,25 @@
+[
+  {
+    "id": "shimla-district",
+    "name": "Shimla",
+    "type": "district",
+    "parent": "himachal-pradesh",
+    "path": "Shimla, Himachal Pradesh, India",
+    "summary": "Administrative capital district of Himachal Pradesh.",
+    "profile": {
+      "Headquarters": "Shimla",
+      "Language": "Hindi, Pahari, Kangri, Mandiali",
+      "Food": "Himachali Dham, Siddu, Madra, Chha Gosht, Babru",
+      "Crafts": "Kullu and Kinnauri shawls, Chamba Rumal embroidered handkerchiefs, Kangra miniature paintings, Chamba chappals"
+    },
+    "area": "55,673 km²",
+    "population": "6,864,602 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Himachal Pradesh"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

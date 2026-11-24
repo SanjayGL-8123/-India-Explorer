@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "india-explorer/frontend/node_modules/*",
+        "india-explorer/frontend/node_modules/@types/*"
+      ]
+    },
+    "typeRoots": [
+      "india-explorer/frontend/node_modules/@types"
+    ]
+  },
+  "include": [
+    "india-explorer/frontend/src/**/*",
+    "india-explorer/frontend/vite.config.ts"
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "north-goa",
+    "name": "North Goa",
+    "type": "district",
+    "parent": "goa",
+    "path": "North Goa, Goa, India",
+    "summary": "Famous for Calangute, Baga beaches, and Old Goa UNESCO churches.",
+    "profile": {
+      "Headquarters": "North Goa",
+      "Food": "Fish curry, Bebinca",
+      "Crafts": "Ceramic tiles, Cashew"
+    },
+    "area": "1,736 km²",
+    "population": "818,008 (2011 Census)",
+    "points": [
+      "Famous for Calangute, Baga beaches, and Old Goa UNESCO churches."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/North_Goa_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "south-goa",
+    "name": "South Goa",
+    "type": "district",
+    "parent": "goa",
+    "path": "South Goa, Goa, India",
+    "summary": "Serene white sand beaches, Dudhsagar Falls, and Portuguese mansions.",
+    "profile": {
+      "Headquarters": "South Goa",
+      "Food": "Vindaloo, Sorpotel",
+      "Crafts": "Coconut crafts"
+    },
+    "area": "1,966 km²",
+    "population": "640,537 (2011 Census)",
+    "points": [
+      "Serene white sand beaches, Dudhsagar Falls, and Portuguese mansions."
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/South_Goa_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

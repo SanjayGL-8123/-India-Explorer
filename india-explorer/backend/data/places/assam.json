@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kamakhya-temple-guwahati",
+    "name": "Maa Kamakhya Temple, Nilachal Hill",
+    "type": "place",
+    "parent": "kamrup-metropolitan",
+    "path": "Maa Kamakhya Temple, Nilachal Hill, Kamrup Metropolitan, India",
+    "summary": "Foremost of the 51 Shakti Peethas on Nilachal hill, celebrating feminine procreative power and Ambubachi Mela.",
+    "points": [
+      "Original shrine built during Mlechchha dynasty; present hybrid Nilachal-style beehive shikhara temple rebuilt in 1565 CE by King Nara Narayana of the Koch dynasty",
+      "Koch and Ahom dynasties",
+      "Sanctum holds no anthropomorphic image but a natural stone fissure fed by an underground natural spring",
+      "Celebrates the annual Ambubachi Mela in June marking the annual menstrual cycle of Mother Earth"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Maa_Kamakhya_Temple,_Nilachal_Hill",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kaziranga-national-park",
+    "name": "Kaziranga National Park",
+    "type": "place",
+    "parent": "golaghat",
+    "path": "Kaziranga National Park, Golaghat, India",
+    "summary": "UNESCO World Heritage sanctuary protecting over 2,600 great Indian one-horned rhinoceroses.",
+    "points": [
+      "Established as a reserve forest in 1905 by Mary Curzon; declared UNESCO World Heritage Site in 1985",
+      "Protects the world's largest population of great one-horned rhinoceroses and wild water buffaloes",
+      "Spans 430 sq km of alluvial floodplains, dense elephant grass, and marshes along the Brahmaputra River"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kaziranga_National_Park",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "alappuzha",
+    "name": "Alappuzha",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Alappuzha, Kerala, India",
+    "summary": "Venice of the East, world-famous for palm-lined backwaters, houseboats, and the Nehru Trophy Boat Race.",
+    "profile": {
+      "Headquarters": "Alappuzha",
+      "Language": "Malayalam",
+      "Food": "Karimeen Pollichathu, Duck Roast",
+      "Crafts": "GI-tagged Coir mats and ropes"
+    },
+    "area": "1,414 km²",
+    "population": "2,127,789 (2011 Census)",
+    "points": [
+      "Vembanad Lake hosts the annual Punnamada snake boat races (Vallam Kali)",
+      "Center of India's coir processing and backwater tourism economy"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Alappuzha_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "ernakulam",
+    "name": "Ernakulam",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Ernakulam, Kerala, India",
+    "summary": "Commercial and financial capital of Kerala centered at Kochi, historic spice port with Chinese fishing nets.",
+    "profile": {
+      "Headquarters": "Kakkanad (Kochi)",
+      "Language": "Malayalam, English",
+      "Food": "Kochi seafood, Appam with stew",
+      "Crafts": "Marine export processing, Spices"
+    },
+    "area": "3,068 km²",
+    "population": "3,282,388 (2011 Census)",
+    "points": [
+      "Fort Kochi was the first European colonial settlement in India (Portuguese 1500 CE)",
+      "Home to Cochin Shipyard, Southern Naval Command, and Kochi Metro"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ernakulam_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "idukki",
+    "name": "Idukki",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Idukki, Kerala, India",
+    "summary": "Mountainous Western Ghats highland boasting Munnar tea estates, Eravikulam National Park, and Idukki Arch Dam.",
+    "profile": {
+      "Headquarters": "Painavu",
+      "Language": "Malayalam, Tamil",
+      "Food": "Cardamom tea, Kanthari chilli dishes",
+      "Crafts": "GI-tagged Idukki Green Cardamom, Tea packaging"
+    },
+    "area": "4,358 km²",
+    "population": "1,108,974 (2011 Census)",
+    "points": [
+      "Anamudi peak (2,695 m) is the highest summit in South India",
+      "Idukki Dam is one of the highest double-curvature concrete arch dams in Asia"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Idukki_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kannur",
+    "name": "Kannur",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Kannur, Kerala, India",
+    "summary": "Land of Looms and Lores on the North Malabar coast, world-famous for ritualistic Theyyam performances and handloom.",
+    "profile": {
+      "Headquarters": "Kannur",
+      "Language": "Malayalam",
+      "Food": "Thalassery Biryani, Muttamala",
+      "Crafts": "GI-tagged Cannanore handloom home furnishings"
+    },
+    "area": "2,966 km²",
+    "population": "2,523,003 (2011 Census)",
+    "points": [
+      "St. Angelo Fort built in 1505 CE by the first Portuguese Viceroy Dom Francisco de Almeida",
+      "Seat of the Arakkal kingdom, the only Muslim royal dynasty in Kerala history"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kannur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kasaragod",
+    "name": "Kasaragod",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Kasaragod, Kerala, India",
+    "summary": "Northernmost coastal district, Land of Gods and Seven Languages, famed for coastal Bekal Fort and Ananthapura Lake Temple.",
+    "profile": {
+      "Headquarters": "Kasaragod",
+      "Language": "Malayalam, Tulu, Kannada, Beary, Konkani",
+      "Food": "Kasaragod Kozhi curry, Pathiri",
+      "Crafts": "Bell metal ware, Kasaragod handloom cotton sarees"
+    },
+    "area": "1,992 km²",
+    "population": "1,307,375 (2011 Census)",
+    "points": [
+      "Bekal Fort built in 1650 CE by Shivappa Nayaka of Keladi, Kerala's largest historic fort",
+      "Only lake temple in Kerala situated at Ananthapura"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kasaragod_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kollam",
+    "name": "Kollam",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Kollam, Kerala, India",
+    "summary": "Cashew Capital of the World on the shores of Ashtamudi Lake, ancient seaport of Quilon described by Marco Polo.",
+    "profile": {
+      "Headquarters": "Kollam",
+      "Language": "Malayalam",
+      "Food": "Fish peera, Cashew fry",
+      "Crafts": "Cashew kernel processing, Coir yarn"
+    },
+    "area": "2,491 km²",
+    "population": "2,635,375 (2011 Census)",
+    "points": [
+      "Historic port of Quilon traded with Phoenicians, Romans, Arabs, and Ming dynasty China",
+      "Gateway to the backwaters via the scenic 8-hour Kollam-Alappuzha water ferry"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kollam_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kottayam",
+    "name": "Kottayam",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Kottayam, Kerala, India",
+    "summary": "City of Letters, Lakes, and Latex; India's first 100% literate municipal town, heart of natural rubber estates.",
+    "profile": {
+      "Headquarters": "Kottayam",
+      "Language": "Malayalam",
+      "Food": "Appam, Karimeen, Beef fry",
+      "Crafts": "Natural rubber production, Publishing"
+    },
+    "area": "2,208 km²",
+    "population": "1,974,551 (2011 Census)",
+    "points": [
+      "First town in India to achieve 100% literacy in 1989",
+      "Kumarakom bird sanctuary on the edge of Vembanad Lake hosts migratory Siberian storks"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kottayam_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kozhikode",
+    "name": "Kozhikode",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Kozhikode, Kerala, India",
+    "summary": "City of Spices and Calico, historic capital of the Samoothiri (Zamorin) where Vasco da Gama landed in 1498 CE.",
+    "profile": {
+      "Headquarters": "Kozhikode",
+      "Language": "Malayalam",
+      "Food": "Kozhikodan Halwa, Malabar Dum Biryani, Banana Chips",
+      "Crafts": "Beypore wooden dhow boat building (Uru), Calico cotton"
+    },
+    "area": "2,344 km²",
+    "population": "3,086,293 (2011 Census)",
+    "points": [
+      "Vasco da Gama landed at Kappad beach near Kozhikode on 20 May 1498 discovering the sea route to India",
+      "Declared India's first UNESCO City of Literature in 2023"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kozhikode_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "malappuram",
+    "name": "Malappuram",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Malappuram, Kerala, India",
+    "summary": "Hill city between Western Ghats and Arabian Sea, center of Islamic scholarship, Ayurvedic research, and football passion.",
+    "profile": {
+      "Headquarters": "Malappuram",
+      "Language": "Malayalam, Arabic",
+      "Food": "Alissa, Muttabaq, Pathiri",
+      "Crafts": "Kottakkal Arya Vaidya Sala Ayurvedic medicines"
+    },
+    "area": "3,554 km²",
+    "population": "4,112,920 (2011 Census)",
+    "points": [
+      "Kottakkal is world-renowned center of classical Ayurvedic healing founded in 1902 by Vaidyaratnam P. S. Varier",
+      "Thirunavaya on Bharathappuzha was the traditional venue for the 12-yearly Mamankam festival"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Malappuram_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "palakkad",
+    "name": "Palakkad",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Palakkad, Kerala, India",
+    "summary": "Granary of Kerala, marked by the 30-km natural mountain pass Palakkad Gap connecting Kerala to Tamil Nadu plains.",
+    "profile": {
+      "Headquarters": "Palakkad",
+      "Language": "Malayalam, Tamil",
+      "Food": "Palakkad Matta rice, Ramassery Idli",
+      "Crafts": "Bell metal ware, Bamboo crafts"
+    },
+    "area": "4,480 km²",
+    "population": "2,809,934 (2011 Census)",
+    "points": [
+      "Palakkad Fort built in 1766 CE by Hyder Ali of Mysore with massive granite ramparts",
+      "Silent Valley National Park protects one of the last undisturbed rain forests in India"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Palakkad_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "pathanamthitta",
+    "name": "Pathanamthitta",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Pathanamthitta, Kerala, India",
+    "summary": "Pilgrimage capital of Kerala, home to hill shrine Sabarimala in Periyar Tiger Reserve, and Aranmula metal mirrors.",
+    "profile": {
+      "Headquarters": "Pathanamthitta",
+      "Language": "Malayalam",
+      "Food": "Aranmula Vallasadya, Unniyappam",
+      "Crafts": "GI-tagged Aranmula Kannadi (front-surface metal alloy mirrors)"
+    },
+    "area": "2,637 km²",
+    "population": "1,197,412 (2011 Census)",
+    "points": [
+      "Sabarimala Ayyappa Temple atop the forested hills attracts over 30 million pilgrims annually",
+      "Aranmula metal mirror is an exclusive metallurgical secret preserved by a few master artisan families"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Pathanamthitta_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "thiruvananthapuram",
+    "name": "Thiruvananthapuram",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Thiruvananthapuram, Kerala, India",
+    "summary": "Capital of Kerala, Ever-Green City of India, home to Padmanabhaswamy Temple, Kovalam beach, and ISRO VSSC.",
+    "profile": {
+      "Headquarters": "Thiruvananthapuram",
+      "Language": "Malayalam, English",
+      "Food": "Boli with Palpayasam, Kappa with Meen curry",
+      "Crafts": "Balaramapuram cotton handlooms, Wood carving"
+    },
+    "area": "2,192 km²",
+    "population": "3,301,427 (2011 Census)",
+    "points": [
+      "Padmanabhaswamy Temple houses estimated $20+ billion in consecrated gold and gemstone treasures",
+      "Thumba Equatorial Rocket Launching Station established here in 1963 launched India's space program"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Thiruvananthapuram_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "thrissur",
+    "name": "Thrissur",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Thrissur, Kerala, India",
+    "summary": "Cultural Capital of Kerala, famed for the grand Thrissur Pooram festival, Vadakkunnathan Temple, and gold jewelry.",
+    "profile": {
+      "Headquarters": "Thrissur",
+      "Language": "Malayalam",
+      "Food": "Vellayappam, Meen Peera, Thrissur Halwa",
+      "Crafts": "Gold jewelry manufacturing, Bell metal lamps"
+    },
+    "area": "3,032 km²",
+    "population": "3,121,200 (2011 Census)",
+    "points": [
+      "Host to the annual Thrissur Pooram festival featuring 30 caparisoned elephants and Kudamattam umbrella exchanges",
+      "Vadakkunnathan Temple won UNESCO Asia-Pacific Award of Excellence for heritage conservation"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Thrissur_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "wayanad",
+    "name": "Wayanad",
+    "type": "district",
+    "parent": "kerala",
+    "path": "Wayanad, Kerala, India",
+    "summary": "Misty high plateau of the Western Ghats known for Edakkal prehistoric cave petroglyphs, tea estates, and spices.",
+    "profile": {
+      "Headquarters": "Kalpetta",
+      "Language": "Malayalam",
+      "Food": "Bamboo rice payasam, Wayanad pepper chicken",
+      "Crafts": "GI-tagged Wayanad Robusta Coffee, Spices"
+    },
+    "area": "2,131 km²",
+    "population": "817,420 (2011 Census)",
+    "points": [
+      "Edakkal Caves feature Neolithic human rock engravings dating back to 6000 BCE",
+      "Banasura Sagar Dam is the largest earthen dam in India and second largest in Asia"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Wayanad_district",
+    "source": "Census of India 2011, ODOP, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

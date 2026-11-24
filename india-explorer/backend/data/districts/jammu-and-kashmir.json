@@ -1,0 +1,25 @@
+[
+  {
+    "id": "srinagar-district",
+    "name": "Srinagar",
+    "type": "district",
+    "parent": "jammu-and-kashmir",
+    "path": "Srinagar, Jammu and Kashmir, India",
+    "summary": "Administrative capital district of Jammu and Kashmir.",
+    "profile": {
+      "Headquarters": "Srinagar",
+      "Language": "Kashmiri, Dogri, Urdu, Hindi, English",
+      "Food": "Kashmiri Wazwan (Rogan Josh, Gushtaba, Rista), Kahwa tea, Dum Aloo, Nadru Yakhni, Rajma Chawal of Jammu",
+      "Crafts": "Pashmina and Shahtoosh shawls, Kashmiri Walnut woodcarving, Paper-mache decorative arts, Hand-knotted silk carpets, Kani shawls"
+    },
+    "area": "42,241 km²",
+    "population": "12,267,013 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Jammu and Kashmir"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dakshineswar-kali-temple",
+    "name": "Dakshineswar Kali Temple, Kolkata",
+    "type": "place",
+    "parent": "kolkata",
+    "path": "Dakshineswar Kali Temple, Kolkata, Kolkata, India",
+    "summary": "19th-century Navaratna architectural temple on the Hooghly river where Sri Ramakrishna Paramahamsa served as priest.",
+    "points": [
+      "Founded in 1855 CE by the philanthropist queen Rani Rashmoni",
+      "Dedicated to Goddess Bhavatarini (an aspect of Kali); classic Bengal Navaratna (nine-spire) style",
+      "Spiritual seat where 19th-century mystic Sri Ramakrishna Paramahamsa attained divine visions"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple,_Kolkata",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "victoria-memorial-kolkata",
+    "name": "Victoria Memorial",
+    "type": "place",
+    "parent": "kolkata",
+    "path": "Victoria Memorial, Kolkata, India",
+    "summary": "Magnificent white Makrana marble monument dedicated to Queen Victoria, surrounded by 64-acre gardens.",
+    "points": [
+      "Built between 1906 and 1921 CE, designed by Sir William Emerson in Indo-Saracenic revival style",
+      "Constructed from pure white Makrana marble quarried from Jodhpur, Rajasthan",
+      "Houses 25 galleries containing 28,000 historic artifacts, paintings, and royal archives"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Victoria_Memorial",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

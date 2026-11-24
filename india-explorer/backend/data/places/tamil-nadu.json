@@ -1,0 +1,110 @@
+[
+  {
+    "id": "brihadisvara-temple-thanjavur",
+    "name": "Brihadisvara Temple (Peruvudaiyar Kovil), Thanjavur",
+    "type": "place",
+    "parent": "thanjavur",
+    "path": "Brihadisvara Temple, Thanjavur, Tamil Nadu, India",
+    "summary": "Great Living Chola Temple built entirely of granite, celebrating over 1,000 years of Dravidian architectural mastery.",
+    "points": [
+      "Commissioned by Emperor Rajaraja Chola I, completed in 1010 CE to celebrate his imperial victories",
+      "Chola dynasty; designated a UNESCO World Heritage Site in 1987",
+      "Dedicated to Lord Shiva (Peruvudaiyar); features a 66-meter Vimana tower built without binding mortar",
+      "The capstone (Kumbam) weighing approximately 80 tonnes was hoisted to the summit using a 6-km inclined earthen ramp"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Brihadisvara_Temple",
+    "source": "Archaeological Survey of India, UNESCO, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "meenakshi-amman-temple-madurai",
+    "name": "Meenakshi Sundareswarar Temple, Madurai",
+    "type": "place",
+    "parent": "madurai",
+    "path": "Meenakshi Amman Temple, Madurai, Tamil Nadu, India",
+    "summary": "Historic heart of Madurai on the Vaigai river, acclaimed for 14 polychrome gopurams and Hall of Thousand Pillars.",
+    "points": [
+      "Originally established during ancient Sangam era; current monumental structure rebuilt by King Vishwanatha Nayak and expanded by Thirumalai Nayak in 16th–17th century",
+      "Pandya and Madurai Nayak dynasties",
+      "Dedicated to Goddess Meenakshi (manifestation of Parvati) and her consort Sundareswarar (Shiva)",
+      "Encompasses the Hall of Thousand Pillars (Aayiram Kaal Mandapam) displaying 985 exquisitely sculpted granite pillars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+    "source": "Madurai Temple Board, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "ramanathaswamy-temple-rameswaram",
+    "name": "Ramanathaswamy Temple, Rameswaram",
+    "type": "place",
+    "parent": "ramanathapuram",
+    "path": "Ramanathaswamy Temple, Ramanathapuram, Tamil Nadu, India",
+    "summary": "Sacred Jyotirlinga island temple on Pamban Island, revered for the world's longest pillared temple corridors and 22 theerthams.",
+    "points": [
+      "Expanded significantly in the 12th century CE by Sri Lankan King Parakramabahu I and Sethupathi rulers of Ramanathapuram in the 17th century",
+      "Pandya, Jaffna, and Sethupathi dynasties",
+      "One of the 12 holy Jyotirlingas; according to the Ramayana, Lord Rama consecrated this Shiva Lingam before crossing to Lanka",
+      "Renowned for its outer corridor measuring 1,220 meters in perimeter with 1,212 intricately carved sandstone pillars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ramanathaswamy_Temple",
+    "source": "Hindu Religious & Charitable Endowments, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "shore-temple-mahabalipuram",
+    "name": "Shore Temple, Mahabalipuram",
+    "type": "place",
+    "parent": "chengalpattu",
+    "path": "Shore Temple, Chengalpattu, Tamil Nadu, India",
+    "summary": "8th-century structural stone temple overlooking the Bay of Bengal, iconic Pallava monument on the UNESCO list.",
+    "points": [
+      "Constructed between 700 and 728 CE by King Narasimhavarman II (Rajasimha) of the Pallava dynasty",
+      "Pallava dynasty; inscribed on the UNESCO World Heritage list in 1984",
+      "One of the earliest structural stone temples of Southern India, combining shrines for Lord Shiva and reclining Vishnu",
+      "Withstood severe coastal weathering and the December 2004 Indian Ocean tsunami due to resilient granite block masonry"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Shore_Temple",
+    "source": "Archaeological Survey of India, UNESCO, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "sri-ranganathaswamy-temple-srirangam",
+    "name": "Sri Ranganathaswamy Temple, Srirangam",
+    "type": "place",
+    "parent": "tiruchirappalli",
+    "path": "Sri Ranganathaswamy Temple, Tiruchirappalli, Tamil Nadu, India",
+    "summary": "The foremost of the 108 Divya Desams, sprawling across 156 acres enclosed by seven concentric walled prakaras.",
+    "points": [
+      "Epigraphic records date from 10th century Chola period; heavily patronized and fortified by Pandya, Hoysala, and Vijayanagara emperors",
+      "Chola, Pandya, Hoysala, and Vijayanagara dynasties",
+      "Dedicated to Ranganatha, a reclining form of Lord Vishnu, situated on an island formed by rivers Kaveri and Kollidam",
+      "Features 21 magnificent gopurams, including the southern Rajagopuram rising 73 meters (239 ft), the second tallest in Asia"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam",
+    "source": "Archaeological Survey of India, UNESCO Tentative List, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kapaleeshwarar-temple-chennai",
+    "name": "Kapaleeshwarar Temple, Mylapore",
+    "type": "place",
+    "parent": "chennai",
+    "path": "Kapaleeshwarar Temple, Chennai, Tamil Nadu, India",
+    "summary": "Classical Dravidian Shaivite temple in Mylapore featuring a vibrant 37-meter rainbow gopuram and sacred temple tank.",
+    "points": [
+      "Original 7th-century Pallava coastal shrine praised by Nayanars; relocated and reconstructed in present location by Vijayanagara Tuluva kings in the 16th century",
+      "Pallava and Vijayanagara dynasties",
+      "Dedicated to Lord Shiva (Kapaleeshwarar) and Goddess Parvati (Karpagambal, 'Goddess of the Wish-Yielding Tree')",
+      "Legend records Goddess Parvati worshipped Lord Shiva in the form of a peacock (Mayil), giving Mylapore its name"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple",
+    "source": "HR&CE Tamil Nadu, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

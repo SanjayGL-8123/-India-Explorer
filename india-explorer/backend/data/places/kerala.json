@@ -1,0 +1,92 @@
+[
+  {
+    "id": "padmanabhaswamy-temple",
+    "name": "Sree Padmanabhaswamy Temple, Thiruvananthapuram",
+    "type": "place",
+    "parent": "thiruvananthapuram",
+    "path": "Sree Padmanabhaswamy Temple, Thiruvananthapuram, Kerala, India",
+    "summary": "Ancient Divya Desam shrine dedicated to Lord Vishnu in Ananthashayanam posture, built in Chera-Dravidian architecture.",
+    "points": [
+      "Mentioned in Sangam epics and Bhagavata Purana; present monumental 100-foot eastern gopuram reconstructed in 1731 CE by King Marthanda Varma",
+      "Travancore royal dynasty (Chera lineage)",
+      "Dedicated to Lord Padmanabhaswamy (Vishnu) reclining on the five-hooded serpent Anantha",
+      "Vaults contain historical offerings of gold coins, gemstone crowns, and diamond necklaces evaluated as the wealthiest religious institution in recorded history"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple",
+    "source": "Travancore Royal Trust, Archaeological Survey, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "vadakkunnathan-temple-thrissur",
+    "name": "Vadakkunnathan Temple, Thrissur",
+    "type": "place",
+    "parent": "thrissur",
+    "path": "Vadakkunnathan Temple, Thrissur, Kerala, India",
+    "summary": "Millennium-old Shiva temple at the epicenter of Thekkinkadu Maidan, awarded UNESCO Asia-Pacific heritage prize.",
+    "points": [
+      "Traditionally founded by sage Parashurama; epigraphic evidence confirms active royal patronage under Chera dynasty in 9th century CE",
+      "Chera (Kulasekhara) dynasty",
+      "Dedicated to Lord Shiva (Vadakkunnathan) worshipped in the form of a 16-foot mound of consecrated ghee (Neyyabhishekam) that never melts",
+      "Surrounded by massive stone walls with four gopurams; site of the annual Thrissur Pooram cultural extravaganza"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Vadakkunnathan_Temple",
+    "source": "Cochin Devaswom Board, UNESCO, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "guruvayur-temple",
+    "name": "Guruvayur Sri Krishna Temple, Guruvayur",
+    "type": "place",
+    "parent": "thrissur",
+    "path": "Guruvayur Temple, Thrissur, Kerala, India",
+    "summary": "The Bhuloka Vaikunta (Holy Abode of Vishnu on Earth), one of the most sacred Krishna pilgrimage centers in India.",
+    "points": [
+      "Historical records date to 14th century; renovated after fire in 1970; dedicated by Brihaspati (Guru) and Vayu according to legend",
+      "Zamorin of Calicut and local royal dynasties",
+      "Dedicated to Guruvayurappan (infant Krishna) holding conch, discus, mace, and lotus",
+      "Maintains Punnathur Kotta elephant sanctuary housing over 40 consecrated temple elephants"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Guruvayur_Temple",
+    "source": "Guruvayur Devaswom Board, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "sabarimala-temple",
+    "name": "Sabarimala Sree Dharma Sastha Temple",
+    "type": "place",
+    "parent": "pathanamthitta",
+    "path": "Sabarimala Temple, Pathanamthitta, Kerala, India",
+    "summary": "Sacred hilltop wilderness pilgrimage dedicated to Lord Ayyappa in the dense tropical forests of Periyar Tiger Reserve.",
+    "points": [
+      "Consecrated according to tradition by sage Parashurama; historical structure rebuilt following fire in 1950",
+      "Pandalam royal dynasty and Travancore Devaswom",
+      "Dedicated to Lord Ayyappa (Dharma Sastha) observed in Naishtika Brahmacharya (celibate ascetic posture)",
+      "Pilgrims observe a 41-day Vratham (vow of austerity) and climb the 18 sacred golden steps (Pathinettampadi) carrying the Irumudi kettu"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Sabarimala",
+    "source": "Travancore Devaswom Board, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "bekal-fort",
+    "name": "Bekal Fort",
+    "type": "place",
+    "parent": "kasaragod",
+    "path": "Bekal Fort, Kasaragod, Kerala, India",
+    "summary": "Largest preserved keyhole-shaped coastal sea fortress in Kerala projecting into the Arabian Sea.",
+    "points": [
+      "Constructed in 1650 CE by Shivappa Nayaka of the Keladi Nayaka dynasty; later modified by Hyder Ali and Tipu Sultan",
+      "Keladi Nayaka and Kingdom of Mysore dynasties",
+      "Built entirely with dark brown laterite stone blocks with sea observation ramparts and zigzag entrance",
+      "Features a central observation tower providing panoramic vistas of 30 km along the Malabar coastline"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Bekal_Fort",
+    "source": "Archaeological Survey of India, Kerala Tourism, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -320,3 +320,5 @@ npx vite preview
 
 This project is open-source under the MIT License. Feel free to use, modify, and distribute it for personal and educational purposes.
 # -India-Explorer
+#   - I n d i a - E x p l o r e r  
+ 

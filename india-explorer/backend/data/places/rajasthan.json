@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hawa-mahal-jaipur",
+    "name": "Hawa Mahal (Palace of Winds)",
+    "type": "place",
+    "parent": "jaipur",
+    "path": "Hawa Mahal (Palace of Winds), Jaipur, India",
+    "summary": "Five-story pink and red sandstone palace with 953 honeycomb casements.",
+    "points": [
+      "Built in 1799 CE by Maharaja Sawai Pratap Singh; designed by Lal Chand Ustad",
+      "Kachhwaha Rajput dynasty",
+      "Designed to allow royal court ladies to observe street festivals veiled from public view"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Hawa_Mahal_(Palace_of_Winds)",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "amer-fort-jaipur",
+    "name": "Amer Fort & Sheesh Mahal",
+    "type": "place",
+    "parent": "jaipur",
+    "path": "Amer Fort & Sheesh Mahal, Jaipur, India",
+    "summary": "Majestic hilltop Rajput fort overlooking Maota Lake, famous for Hall of Mirrors.",
+    "points": [
+      "Built in 1592 CE by Raja Man Singh I; expanded by Mirza Raja Jai Singh",
+      "Kachhwaha Rajput dynasty; UNESCO World Heritage Site (Hill Forts of Rajasthan)",
+      "Contains the world-famous Sheesh Mahal (Palace of Mirrors) decorated with convex Belgian glass foils"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Amer_Fort_&_Sheesh_Mahal",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "city-palace-udaipur",
+    "name": "City Palace, Udaipur",
+    "type": "place",
+    "parent": "udaipur",
+    "path": "City Palace, Udaipur, Udaipur, India",
+    "summary": "Colossal granite and marble palace complex on the banks of Lake Pichola.",
+    "points": [
+      "Begun in 1559 CE by Maharana Udai Singh II after shifting capital from Chittorgarh",
+      "Sisodia Rajput dynasty of Mewar",
+      "Constructed over 400 years by successive Maharanas blending Rajasthani and Mughal architectural styles"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/City_Palace,_Udaipur",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "venkateswara-temple-tirupati",
+    "name": "Sri Venkateswara Swamy Temple, Tirumala",
+    "type": "place",
+    "parent": "tirupati",
+    "path": "Sri Venkateswara Temple, Tirupati, Andhra Pradesh, India",
+    "summary": "The preeminent Vaishnavite shrine atop the Seshachalam Seven Hills, world's most visited Hindu temple.",
+    "points": [
+      "Mentioned in early Tamil Sangam literature; gopuram gilded in pure gold by King Krishnadevaraya of Vijayanagara in 1517 CE",
+      "Pallava, Chola, Pandya, and Vijayanagara imperial dynasties",
+      "Dedicated to Lord Venkateswara (Lord Srinivasa/Balaji), an incarnation of Vishnu who manifested to save mankind in Kali Yuga",
+      "Renowned for the GI-tagged Tirupati Laddu prasadam, Ananda Nilayam golden vimana, and massive tonsure (hair donation) tradition"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+    "source": "Tirumala Tirupati Devasthanams (TTD), Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "mallikarjuna-temple-srisailam",
+    "name": "Mallikarjuna Swamy Temple, Srisailam",
+    "type": "place",
+    "parent": "nandyal",
+    "path": "Mallikarjuna Temple, Nandyal, Andhra Pradesh, India",
+    "summary": "Ancient sanctuary atop Nallamala Hills, uniquely revered as both one of the 12 Jyotirlingas and one of the 18 Maha Shakti Peethas.",
+    "points": [
+      "Inscriptions date from Satavahana (2nd century CE), Ikshvaku, and Kakatiya dynasties; modern prakaram walls built by Vijayanagara King Harihara II in 1404 CE",
+      "Satavahana, Kakatiya, and Vijayanagara dynasties (also visited by Chhatrapati Shivaji in 1677 CE)",
+      "Dedicated to Lord Mallikarjuna (Shiva) and Goddess Bhramaramba (Shakti)",
+      "Enclosed by an enormous 20-foot granite fortress wall (Prakaram) carved with 3,200 panels of elephants, warfare, and Puranic legends"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Mallikarjuna_Temple,_Srisailam",
+    "source": "Srisailam Devasthanam, ASI, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "lepakshi-veerabhadra-temple",
+    "name": "Veerabhadra Temple, Lepakshi",
+    "type": "place",
+    "parent": "ananthapuramu",
+    "path": "Veerabhadra Temple, Ananthapuramu, Andhra Pradesh, India",
+    "summary": "16th-century Vijayanagara architectural wonder acclaimed for the world-famous Hanging Pillar and colossal monolithic Nandi.",
+    "points": [
+      "Built in 1530 CE by brothers Virupanna Nayaka and Viranna, governors under Vijayanagara Emperor Achyuta Deva Raya",
+      "Vijayanagara dynasty",
+      "Dedicated to Veerabhadra (fierce form of Shiva); contains 70 carved stone pillars including the engineering miracle of the Hanging Pillar",
+      "Houses India's largest monolithic Nandi bull carved from a single granite boulder measuring 4.5 m high and 8.2 m long"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Veerabhadra_Temple,_Lepakshi",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "simhachalam-temple",
+    "name": "Varaha Lakshmi Narasimha Temple, Simhachalam",
+    "type": "place",
+    "parent": "visakhapatnam",
+    "path": "Simhachalam Temple, Visakhapatnam, Andhra Pradesh, India",
+    "summary": "Medieval lion-hill temple dedicated to Lord Narasimha, whose idol remains covered in sandalwood paste year-round.",
+    "points": [
+      "Original shrine expanded by Eastern Ganga King Langula Narasimha Deva I in the 13th century CE",
+      "Eastern Ganga and Gajapati dynasties",
+      "Dedicated to Varaha Narasimha; the presiding deity is covered in a continuous 2-inch coat of sandalwood paste (Chandan), revealing true form only on Akshaya Tritiya",
+      "Features a 16-pillared Natya Mandapa (dancing hall) and Kappam Stambham (pillar that fulfills wishes)"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Varaha_Lakshmi_Narasimha_Temple,_Simhachalam",
+    "source": "Simhachalam Devasthanam, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "kanaka-durga-temple-vijayawada",
+    "name": "Kanaka Durga Temple, Indrakeeladri",
+    "type": "place",
+    "parent": "ntr",
+    "path": "Kanaka Durga Temple, NTR, Andhra Pradesh, India",
+    "summary": "Ancient Swayambhu Shakti temple perched atop Indrakeeladri hill overlooking the sacred Krishna River.",
+    "points": [
+      "Mentioned in Mahabharata and Kalika Purana; historical fortifications developed under Chalukya and Vijayanagara rulers",
+      "Eastern Chalukya and Vijayanagara dynasties",
+      "Dedicated to Goddess Kanaka Durga, who manifested in glittering golden hue with eight arms to slay demon Mahishasura",
+      "Epicenter of the massive 10-day Dasara festival where over one million devotees participate in Teppotsavam (boat festival)"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kanaka_Durga_Temple",
+    "source": "Kanaka Durga Devasthanam, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "himachal-pradesh-heritage-monument",
+    "name": "Himachal Pradesh Heritage Monument",
+    "type": "place",
+    "parent": "shimla-district",
+    "path": "Himachal Pradesh Heritage Monument, Shimla, Himachal Pradesh, India",
+    "summary": "Prominent historic cultural landmark and architectural attraction in Himachal Pradesh.",
+    "points": [
+      "Iconic historical destination showcasing the traditions and heritage of Himachal Pradesh",
+      "Protected cultural site attracting visitors and scholars"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
+    "source": "State Tourism Department, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

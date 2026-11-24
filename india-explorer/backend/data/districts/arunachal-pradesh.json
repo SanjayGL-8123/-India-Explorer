@@ -1,0 +1,25 @@
+[
+  {
+    "id": "itanagar-district",
+    "name": "Itanagar",
+    "type": "district",
+    "parent": "arunachal-pradesh",
+    "path": "Itanagar, Arunachal Pradesh, India",
+    "summary": "Administrative capital district of Arunachal Pradesh.",
+    "profile": {
+      "Headquarters": "Itanagar",
+      "Language": "English, Nyishi, Adi, Galo",
+      "Food": "Thukpa, Zan, Bamboo Shoot Pork Fry, Lukter",
+      "Crafts": "Monpa handmade paper, Sherdukpen wooden masks, Wancho woodcarvings, Apatani handloom"
+    },
+    "area": "83,743 km²",
+    "population": "1,383,727 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Arunachal Pradesh"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Arunachal_Pradesh",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

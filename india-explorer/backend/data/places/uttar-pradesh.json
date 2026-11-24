@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kashi-vishwanath-temple",
+    "name": "Kashi Vishwanath Temple, Varanasi",
+    "type": "place",
+    "parent": "varanasi",
+    "path": "Kashi Vishwanath Temple, Varanasi, Uttar Pradesh, India",
+    "summary": "Holiest Jyotirlinga of Lord Shiva on the sacred western bank of River Ganges, center of Kashi Vishwanath Dham.",
+    "points": [
+      "Ancient shrine destroyed and rebuilt several times; current sanctum erected in 1780 CE by Queen Ahilyabai Holkar of Indore",
+      "Maratha Holkar dynasty, with gold spires gifted in 1835 by Maharaja Ranjit Singh of the Sikh Empire",
+      "Dedicated to Lord Vishveshwara (Shiva), the Lord of the Universe; one of the 12 supreme Jyotirlingas",
+      "Expanded in 2021 into the grand Kashi Vishwanath Corridor connecting the temple directly to the sacred Ganga ghats"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple",
+    "source": "Shri Kashi Vishwanath Special Area Development Board, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal, Agra",
+    "type": "place",
+    "parent": "agra",
+    "path": "Taj Mahal, Agra, Uttar Pradesh, India",
+    "summary": "Ivory-white marble mausoleum on the south bank of the Yamuna River, universal masterpiece of world heritage.",
+    "points": [
+      "Commissioned in 1632 CE by Mughal Emperor Shah Jahan to house the tomb of his favorite consort Mumtaz Mahal; completed c. 1653 CE",
+      "Mughal dynasty; principal architect Ustad Ahmad Lahori; inscribed as a UNESCO World Heritage Site in 1983",
+      "Constructed of pure white Makrana marble inlaid with 28 varieties of semi-precious gemstones in intricate Pietra Dura motifs",
+      "Stands in a 42-acre complex featuring four 40-meter minarets, red sandstone mosque, and Charbagh Mughal formal gardens"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Taj_Mahal",
+    "source": "Archaeological Survey of India, UNESCO, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "ram-janmabhoomi-mandir",
+    "name": "Ram Janmabhoomi Mandir, Ayodhya",
+    "type": "place",
+    "parent": "ayodhya",
+    "path": "Ram Mandir, Ayodhya, Uttar Pradesh, India",
+    "summary": "Grand Nagara-style Hindu temple complex marking the sacred birthplace of Lord Rama on the banks of Saryu River.",
+    "points": [
+      "Designed in classical Gujara-Chalukya style by master temple architect Chandrakant Sompura; consecrated on 22 January 2024",
+      "Constructed under the supervision of Shri Ram Janmbhoomi Teerth Kshetra trust",
+      "Dedicated to Ram Lalla Virajman (infant Lord Rama), carved from 3-billion-year-old black Krishna shila stone by sculptor Arun Yogiraj",
+      "Built entirely with carved pink Bansi Paharpur sandstone from Rajasthan without using structural steel or iron"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Ram_Mandir",
+    "source": "Shri Ram Janmbhoomi Teerth Kshetra, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "krishna-janmabhoomi-temple",
+    "name": "Shri Krishna Janmabhoomi Complex, Mathura",
+    "type": "place",
+    "parent": "mathura",
+    "path": "Krishna Janmabhoomi, Mathura, Uttar Pradesh, India",
+    "summary": "Sacred prison cell (Garbha Griha) where Lord Krishna was born to Devaki and Vasudeva during the reign of King Kamsa.",
+    "points": [
+      "Earliest stone temple built by great-grandson Vajranabha; grand temple erected in 1150 CE by Jajja; present complex restored by industrialist Jugal Kishore Birla in 1965",
+      "Gupta, Chandela, and modern public trusts",
+      "Marks the exact prison cell underground chamber where Krishna took birth to destroy demon king Kamsa",
+      "Excavations yielded 6th-century BCE punch-marked coins, terracotta figurines, and Kushan stone sculptures"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Krishna_Janmasthan_Temple_Complex",
+    "source": "Mathura Heritage Trust, ASI, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "sarnath-dhamek-stupa",
+    "name": "Dhamek Stupa & Lion Capital, Sarnath",
+    "type": "place",
+    "parent": "varanasi",
+    "path": "Sarnath Dhamek Stupa, Varanasi, Uttar Pradesh, India",
+    "summary": "Sacred Buddhist park where Gautama Buddha preached his first sermon, and origin of the National Emblem of India.",
+    "points": [
+      "Originally established by Mauryan Emperor Ashoka in 249 BCE; massive current stone stupa built in 500 CE during the Gupta Empire",
+      "Maurya and Gupta dynasties",
+      "Marks the Deer Park (Rishipatana) where Buddha revealed the Four Noble Truths and Eightfold Path (Dhammacakkappavattana Sutta)",
+      "Ashoka erected the famous polished sandstone Lion Capital here, adopted as the official National Emblem of the Republic of India"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Dhamek_Stupa",
+    "source": "Archaeological Survey of India, UNESCO Tentative, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

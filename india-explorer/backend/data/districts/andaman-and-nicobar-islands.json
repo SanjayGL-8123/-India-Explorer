@@ -1,0 +1,25 @@
+[
+  {
+    "id": "port-blair-district",
+    "name": "Port Blair",
+    "type": "district",
+    "parent": "andaman-and-nicobar-islands",
+    "path": "Port Blair, Andaman and Nicobar Islands, India",
+    "summary": "Administrative capital district of Andaman and Nicobar Islands.",
+    "profile": {
+      "Headquarters": "Port Blair",
+      "Language": "Bengali, Hindi, Tamil, Telugu, Malayalam, Nicobarese",
+      "Food": "Coconut Prawn Curry, Grilled Fish Tikka, Crab Curry, Tandoori Lobster",
+      "Crafts": "Mother-of-pearl oyster shell jewelry, Coconut shell lamps, Padauk wooden bowls, Cane furniture"
+    },
+    "area": "8,249 km²",
+    "population": "380,581 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Andaman and Nicobar Islands"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

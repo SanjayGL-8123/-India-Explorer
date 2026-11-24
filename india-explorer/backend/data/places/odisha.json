@@ -1,0 +1,38 @@
+[
+  {
+    "id": "jagannath-temple-puri",
+    "name": "Shri Jagannath Temple, Puri",
+    "type": "place",
+    "parent": "puri",
+    "path": "Shri Jagannath Temple, Puri, Puri, India",
+    "summary": "One of the four sacred Char Dham sanctuaries, home to Lord Jagannath, Balabhadra, and Subhadra.",
+    "points": [
+      "Built in the 12th century CE (c. 1161 CE) by King Anantavarman Chodaganga Deva of the Eastern Ganga dynasty",
+      "Eastern Ganga dynasty",
+      "Venue of the world-famous annual Ratha Yatra (Chariot Festival) drawing millions of pilgrims",
+      "Features the world's largest kitchen running on traditional earthen pots where food is blessed as Mahaprasad"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Shri_Jagannath_Temple,_Puri",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  },
+  {
+    "id": "konark-sun-temple",
+    "name": "Sun Temple, Konark (Black Pagoda)",
+    "type": "place",
+    "parent": "puri",
+    "path": "Sun Temple, Konark (Black Pagoda), Puri, India",
+    "summary": "13th-century stone chariot architectural marvel carved with 24 sun wheels and seven horses.",
+    "points": [
+      "Built in 1250 CE by King Narasimhadeva I of the Eastern Ganga dynasty; UNESCO World Heritage Site",
+      "Eastern Ganga dynasty",
+      "Designed in the form of a colossal chariot of Surya (Sun God) with 24 intricately carved stone wheels acting as sundials",
+      "Celebrated for its monumental erotic Mithuna sculptures and dynamic Natya Mandapa dancers"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Sun_Temple,_Konark_(Black_Pagoda)",
+    "source": "Archaeological Survey of India, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

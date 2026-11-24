@@ -1,0 +1,25 @@
+[
+  {
+    "id": "aizawl-district",
+    "name": "Aizawl",
+    "type": "district",
+    "parent": "mizoram",
+    "path": "Aizawl, Mizoram, India",
+    "summary": "Administrative capital district of Mizoram.",
+    "profile": {
+      "Headquarters": "Aizawl",
+      "Language": "Mizo, English",
+      "Food": "Bai (steamed vegetables with fermented pork), Vawksa Rep, Sawhchiar rice porridge",
+      "Crafts": "Puan traditional handloom wraps, Bamboo hat (Khumbeu), Cane furniture and woven baskets"
+    },
+    "area": "21,081 km²",
+    "population": "1,097,206 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Mizoram"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Mizoram",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]

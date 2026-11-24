@@ -1,0 +1,25 @@
+[
+  {
+    "id": "daman-district",
+    "name": "Daman",
+    "type": "district",
+    "parent": "dadra-and-nagar-haveli-and-daman-and-diu",
+    "path": "Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "summary": "Administrative capital district of Dadra and Nagar Haveli and Daman and Diu.",
+    "profile": {
+      "Headquarters": "Daman",
+      "Language": "Gujarati, Hindi, English, Konkani, Portuguese",
+      "Food": "Parsi style fish curry, Ubadiyu pot bake, Chicken Bullet, Fresh Pomfret fry",
+      "Crafts": "Warli tribal wall paintings of Silvassa, Mat weaving of Daman, Bamboo and woodwork"
+    },
+    "area": "603 km²",
+    "population": "586,956 (2011 Census)",
+    "points": [
+      "Seat of government and administration of Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Dadra_and_Nagar_Haveli_and_Daman_and_Diu",
+    "source": "Census of India 2011, Wikipedia",
+    "updated": "2024-11",
+    "model": ""
+  }
+]
